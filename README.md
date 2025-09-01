@@ -58,3 +58,10 @@ nombre_proyecto_final_ML
 │   └── ...
 └── README.md: Documentación del proyecto.
 
+## App
+```bash
+uv run streamlit run app/app.py
+
+uv run streamlit run app/app_cli.py
+```
+
