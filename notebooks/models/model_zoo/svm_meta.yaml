@@ -1,0 +1,24 @@
+model_name: svm
+best_score_cv: 0.7337016511878077
+best_params:
+  selectkbest__k: 5000
+  svm__C: 0.5
+threshold_opt_f1_no: 0.8020454205776264
+metrics@opt:
+  threshold: 0.8020454205776264
+  roc_auc: 0.9113253290233203
+  pr_auc: 0.996383388606443
+  f1_yes: 0.9814696485623003
+  f1_no: 0.343042071197411
+  balanced_acc: 0.676237204648657
+metrics@0.5:
+  threshold: 0.5
+  roc_auc: 0.9113253290233203
+  pr_auc: 0.996383388606443
+  f1_yes: 0.9873212840571891
+  f1_no: 0.013986013986013986
+  balanced_acc: 0.5035211267605634
+artifacts:
+  gridsearch_pkl: models\model_zoo\gridsearch_svm.pkl
+  best_estimator_pkl: models\model_zoo\best_svm.pkl
+  cv_results_csv: models\model_zoo\cv_results_svm.csv

@@ -1,0 +1,26 @@
+model_name: rand_forest
+best_score_cv: 0.6384039823876723
+best_params:
+  rf__max_depth: null
+  rf__max_features: 0.5
+  rf__n_estimators: 400
+  selectkbest__k: 5000
+threshold_opt_f1_no: 0.7527142499999999
+metrics@opt:
+  threshold: 0.7527142499999999
+  roc_auc: 0.7801514918289336
+  pr_auc: 0.988947923296291
+  f1_yes: 0.9859770533600437
+  f1_no: 0.45390070921985815
+  balanced_acc: 0.7184304369019215
+metrics@0.5:
+  threshold: 0.5
+  roc_auc: 0.7801514918289336
+  pr_auc: 0.988947923296291
+  f1_yes: 0.9883247352701602
+  f1_no: 0.4
+  balanced_acc: 0.6486762102670669
+artifacts:
+  gridsearch_pkl: models\model_zoo\gridsearch_rand_forest.pkl
+  best_estimator_pkl: models\model_zoo\best_rand_forest.pkl
+  cv_results_csv: models\model_zoo\cv_results_rand_forest.csv

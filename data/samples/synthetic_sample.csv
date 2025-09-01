@@ -1,0 +1,201 @@
+Issue,Sub-issue,Product,Sub-product,Company,State,Date received,Timely response?
+billing error,fees,Credit card,FHA,CreditCo,NY,2023-01-01,No
+fraud charge,application,Bank account,FHA,BlueBank,CA,2023-01-02,Yes
+account closed,other,Mortgage,FHA,Acme Corp,CA,2023-01-03,Yes
+late payment,other,Bank account,HELOC,CreditCo,FL,2023-01-04,Yes
+late payment,fees,Loan,HELOC,Epsilon,TX,2023-01-05,Yes
+account closed,other,Loan,HELOC,Acme Corp,NY,2023-01-06,Yes
+fraud charge,incorrect info,Bank account,Auto,DeltaLoans,CA,2023-01-07,Yes
+interest rate,application,Mortgage,General,Epsilon,TX,2023-01-08,Yes
+billing error,application,Bank account,Savings,Acme Corp,CA,2023-01-09,Yes
+late payment,fees,Bank account,FHA,DeltaLoans,NY,2023-01-10,Yes
+fraud charge,collections,Credit card,HELOC,Epsilon,TX,2023-01-11,Yes
+fraud charge,incorrect info,Bank account,HELOC,DeltaLoans,NY,2023-01-12,Yes
+interest rate,collections,Mortgage,FHA,Acme Corp,CA,2023-01-13,Yes
+account closed,application,Loan,FHA,Acme Corp,FL,2023-01-14,Yes
+late payment,incorrect info,Loan,Auto,BlueBank,IL,2023-01-15,Yes
+interest rate,application,Bank account,General,BlueBank,TX,2023-01-16,Yes
+account closed,incorrect info,Bank account,General,Epsilon,FL,2023-01-17,Yes
+fraud charge,collections,Credit card,Savings,DeltaLoans,TX,2023-01-18,Yes
+fraud charge,incorrect info,Mortgage,FHA,Acme Corp,IL,2023-01-19,No
+billing error,other,Mortgage,Savings,CreditCo,IL,2023-01-20,Yes
+fraud charge,collections,Credit card,Savings,DeltaLoans,NY,2023-01-21,No
+interest rate,application,Bank account,General,CreditCo,IL,2023-01-22,Yes
+billing error,other,Credit card,General,Acme Corp,IL,2023-01-23,Yes
+account closed,fees,Loan,FHA,Acme Corp,CA,2023-01-24,Yes
+late payment,incorrect info,Bank account,General,Epsilon,NY,2023-01-25,Yes
+fraud charge,incorrect info,Credit card,Auto,DeltaLoans,TX,2023-01-26,No
+fraud charge,collections,Credit card,Savings,Epsilon,TX,2023-01-27,No
+fraud charge,application,Bank account,Auto,DeltaLoans,IL,2023-01-28,Yes
+fraud charge,incorrect info,Credit card,Auto,BlueBank,IL,2023-01-29,No
+billing error,incorrect info,Bank account,Savings,Epsilon,TX,2023-01-30,Yes
+billing error,application,Mortgage,FHA,BlueBank,CA,2023-01-31,Yes
+billing error,incorrect info,Mortgage,FHA,DeltaLoans,TX,2023-02-01,No
+fraud charge,fees,Mortgage,General,Epsilon,FL,2023-02-02,Yes
+fraud charge,fees,Bank account,Auto,DeltaLoans,TX,2023-02-03,Yes
+late payment,collections,Bank account,General,CreditCo,NY,2023-02-04,No
+account closed,application,Credit card,Auto,BlueBank,TX,2023-02-05,Yes
+fraud charge,fees,Loan,Auto,CreditCo,TX,2023-02-06,Yes
+billing error,other,Loan,Savings,DeltaLoans,FL,2023-02-07,No
+interest rate,incorrect info,Mortgage,FHA,Acme Corp,NY,2023-02-08,No
+late payment,incorrect info,Mortgage,HELOC,DeltaLoans,TX,2023-02-09,Yes
+account closed,application,Loan,Auto,DeltaLoans,IL,2023-02-10,Yes
+billing error,collections,Credit card,Savings,BlueBank,NY,2023-02-11,Yes
+billing error,collections,Loan,Auto,CreditCo,IL,2023-02-12,Yes
+fraud charge,fees,Mortgage,HELOC,CreditCo,CA,2023-02-13,Yes
+interest rate,other,Loan,Auto,BlueBank,TX,2023-02-14,No
+interest rate,fees,Loan,FHA,DeltaLoans,IL,2023-02-15,No
+fraud charge,collections,Credit card,Savings,Acme Corp,IL,2023-02-16,Yes
+billing error,collections,Credit card,FHA,DeltaLoans,IL,2023-02-17,Yes
+billing error,incorrect info,Credit card,FHA,Epsilon,IL,2023-02-18,Yes
+billing error,collections,Loan,FHA,DeltaLoans,TX,2023-02-19,Yes
+fraud charge,other,Loan,HELOC,DeltaLoans,IL,2023-02-20,No
+fraud charge,other,Loan,General,CreditCo,NY,2023-02-21,No
+billing error,fees,Credit card,General,CreditCo,FL,2023-02-22,Yes
+account closed,application,Mortgage,HELOC,DeltaLoans,IL,2023-02-23,Yes
+interest rate,incorrect info,Loan,General,DeltaLoans,CA,2023-02-24,Yes
+billing error,fees,Bank account,Savings,Acme Corp,IL,2023-02-25,No
+account closed,fees,Bank account,HELOC,Acme Corp,CA,2023-02-26,Yes
+fraud charge,collections,Credit card,General,DeltaLoans,CA,2023-02-27,No
+fraud charge,collections,Bank account,HELOC,CreditCo,FL,2023-02-28,Yes
+late payment,incorrect info,Credit card,HELOC,CreditCo,NY,2023-03-01,No
+interest rate,other,Mortgage,Savings,BlueBank,FL,2023-03-02,Yes
+billing error,incorrect info,Mortgage,HELOC,DeltaLoans,IL,2023-03-03,Yes
+fraud charge,application,Bank account,HELOC,Acme Corp,TX,2023-03-04,Yes
+late payment,other,Loan,General,BlueBank,NY,2023-03-05,No
+late payment,fees,Mortgage,FHA,DeltaLoans,FL,2023-03-06,No
+billing error,application,Credit card,HELOC,BlueBank,IL,2023-03-07,No
+late payment,other,Loan,HELOC,Epsilon,IL,2023-03-08,No
+billing error,incorrect info,Mortgage,HELOC,CreditCo,TX,2023-03-09,Yes
+interest rate,incorrect info,Loan,Auto,Acme Corp,TX,2023-03-10,No
+late payment,application,Loan,FHA,Acme Corp,NY,2023-03-11,Yes
+billing error,incorrect info,Credit card,HELOC,Acme Corp,TX,2023-03-12,No
+late payment,application,Loan,HELOC,CreditCo,FL,2023-03-13,Yes
+account closed,fees,Bank account,Savings,BlueBank,IL,2023-03-14,Yes
+billing error,fees,Credit card,FHA,CreditCo,TX,2023-03-15,Yes
+account closed,collections,Mortgage,Savings,Acme Corp,TX,2023-03-16,Yes
+fraud charge,fees,Credit card,General,BlueBank,IL,2023-03-17,Yes
+account closed,other,Mortgage,FHA,Epsilon,IL,2023-03-18,Yes
+fraud charge,application,Bank account,HELOC,Acme Corp,FL,2023-03-19,Yes
+account closed,incorrect info,Credit card,Auto,Epsilon,CA,2023-03-20,Yes
+late payment,application,Loan,General,Acme Corp,CA,2023-03-21,Yes
+late payment,other,Bank account,General,Epsilon,NY,2023-03-22,Yes
+fraud charge,other,Mortgage,Savings,CreditCo,CA,2023-03-23,No
+account closed,other,Loan,FHA,BlueBank,NY,2023-03-24,Yes
+account closed,collections,Loan,FHA,CreditCo,NY,2023-03-25,Yes
+fraud charge,other,Mortgage,Auto,CreditCo,CA,2023-03-26,Yes
+account closed,other,Credit card,Savings,Epsilon,IL,2023-03-27,Yes
+interest rate,fees,Loan,General,BlueBank,NY,2023-03-28,Yes
+fraud charge,incorrect info,Mortgage,General,CreditCo,TX,2023-03-29,No
+account closed,fees,Bank account,Savings,CreditCo,TX,2023-03-30,Yes
+late payment,fees,Mortgage,Savings,DeltaLoans,TX,2023-03-31,Yes
+late payment,collections,Mortgage,Auto,Acme Corp,FL,2023-04-01,Yes
+fraud charge,incorrect info,Loan,Savings,DeltaLoans,CA,2023-04-02,Yes
+late payment,incorrect info,Loan,Auto,CreditCo,IL,2023-04-03,No
+billing error,incorrect info,Loan,Auto,DeltaLoans,IL,2023-04-04,Yes
+late payment,incorrect info,Mortgage,Savings,Epsilon,FL,2023-04-05,Yes
+fraud charge,collections,Credit card,General,Acme Corp,TX,2023-04-06,Yes
+interest rate,application,Credit card,Auto,BlueBank,NY,2023-04-07,Yes
+fraud charge,collections,Bank account,Auto,DeltaLoans,IL,2023-04-08,No
+interest rate,collections,Mortgage,Savings,Epsilon,CA,2023-04-09,No
+account closed,collections,Credit card,FHA,BlueBank,TX,2023-04-10,Yes
+interest rate,incorrect info,Credit card,Auto,Epsilon,IL,2023-04-11,Yes
+late payment,application,Loan,Auto,Acme Corp,CA,2023-04-12,Yes
+interest rate,incorrect info,Mortgage,Savings,DeltaLoans,NY,2023-04-13,Yes
+billing error,application,Credit card,Savings,BlueBank,NY,2023-04-14,Yes
+fraud charge,application,Loan,FHA,DeltaLoans,IL,2023-04-15,Yes
+billing error,application,Bank account,HELOC,Acme Corp,IL,2023-04-16,No
+account closed,other,Mortgage,FHA,CreditCo,CA,2023-04-17,Yes
+account closed,other,Mortgage,HELOC,Acme Corp,FL,2023-04-18,No
+fraud charge,application,Credit card,General,Acme Corp,NY,2023-04-19,No
+billing error,collections,Loan,FHA,BlueBank,IL,2023-04-20,Yes
+fraud charge,fees,Credit card,FHA,Epsilon,IL,2023-04-21,Yes
+billing error,incorrect info,Loan,Auto,Acme Corp,FL,2023-04-22,Yes
+late payment,other,Bank account,Auto,CreditCo,CA,2023-04-23,Yes
+billing error,collections,Loan,Savings,CreditCo,TX,2023-04-24,Yes
+late payment,incorrect info,Mortgage,Auto,DeltaLoans,TX,2023-04-25,No
+interest rate,other,Credit card,General,DeltaLoans,CA,2023-04-26,No
+interest rate,application,Mortgage,FHA,DeltaLoans,FL,2023-04-27,Yes
+account closed,fees,Credit card,Savings,Epsilon,TX,2023-04-28,Yes
+billing error,fees,Mortgage,FHA,BlueBank,NY,2023-04-29,No
+fraud charge,incorrect info,Mortgage,FHA,CreditCo,TX,2023-04-30,Yes
+late payment,collections,Loan,HELOC,BlueBank,NY,2023-05-01,No
+fraud charge,other,Credit card,Auto,BlueBank,IL,2023-05-02,No
+interest rate,collections,Credit card,Savings,BlueBank,NY,2023-05-03,No
+billing error,incorrect info,Credit card,Savings,BlueBank,NY,2023-05-04,Yes
+fraud charge,incorrect info,Mortgage,General,CreditCo,TX,2023-05-05,Yes
+fraud charge,other,Loan,General,CreditCo,CA,2023-05-06,Yes
+late payment,application,Credit card,General,CreditCo,FL,2023-05-07,Yes
+interest rate,other,Mortgage,FHA,Epsilon,FL,2023-05-08,Yes
+billing error,collections,Credit card,HELOC,DeltaLoans,FL,2023-05-09,Yes
+fraud charge,other,Loan,Auto,Acme Corp,FL,2023-05-10,Yes
+fraud charge,application,Loan,Savings,BlueBank,IL,2023-05-11,Yes
+account closed,other,Loan,HELOC,CreditCo,TX,2023-05-12,Yes
+interest rate,fees,Mortgage,FHA,DeltaLoans,TX,2023-05-13,Yes
+late payment,fees,Loan,HELOC,DeltaLoans,NY,2023-05-14,Yes
+billing error,application,Mortgage,Savings,Acme Corp,NY,2023-05-15,Yes
+account closed,fees,Bank account,General,BlueBank,CA,2023-05-16,No
+interest rate,other,Credit card,Auto,BlueBank,TX,2023-05-17,Yes
+late payment,fees,Mortgage,Savings,DeltaLoans,IL,2023-05-18,Yes
+interest rate,application,Mortgage,Auto,CreditCo,CA,2023-05-19,No
+billing error,collections,Bank account,FHA,Epsilon,CA,2023-05-20,Yes
+interest rate,application,Mortgage,FHA,CreditCo,TX,2023-05-21,Yes
+fraud charge,fees,Mortgage,HELOC,Acme Corp,TX,2023-05-22,Yes
+late payment,application,Mortgage,Auto,DeltaLoans,FL,2023-05-23,No
+fraud charge,incorrect info,Loan,Auto,Acme Corp,NY,2023-05-24,Yes
+late payment,collections,Bank account,FHA,BlueBank,IL,2023-05-25,Yes
+account closed,application,Mortgage,Savings,Acme Corp,NY,2023-05-26,Yes
+interest rate,collections,Loan,Savings,BlueBank,NY,2023-05-27,No
+late payment,application,Bank account,HELOC,CreditCo,TX,2023-05-28,No
+billing error,application,Mortgage,FHA,Epsilon,TX,2023-05-29,No
+fraud charge,incorrect info,Loan,General,Acme Corp,TX,2023-05-30,Yes
+fraud charge,application,Loan,General,BlueBank,IL,2023-05-31,Yes
+billing error,application,Mortgage,HELOC,Epsilon,TX,2023-06-01,Yes
+billing error,incorrect info,Credit card,HELOC,Epsilon,NY,2023-06-02,Yes
+account closed,other,Mortgage,FHA,BlueBank,FL,2023-06-03,No
+interest rate,incorrect info,Credit card,Auto,CreditCo,FL,2023-06-04,No
+fraud charge,other,Mortgage,FHA,BlueBank,NY,2023-06-05,Yes
+account closed,other,Bank account,FHA,DeltaLoans,NY,2023-06-06,Yes
+account closed,collections,Credit card,Auto,CreditCo,NY,2023-06-07,Yes
+late payment,collections,Loan,Auto,Acme Corp,FL,2023-06-08,No
+interest rate,collections,Credit card,HELOC,BlueBank,NY,2023-06-09,Yes
+account closed,other,Mortgage,Savings,BlueBank,NY,2023-06-10,Yes
+account closed,other,Mortgage,HELOC,Epsilon,CA,2023-06-11,No
+billing error,application,Loan,FHA,Acme Corp,CA,2023-06-12,Yes
+late payment,other,Mortgage,FHA,Epsilon,IL,2023-06-13,Yes
+fraud charge,other,Credit card,HELOC,CreditCo,IL,2023-06-14,Yes
+account closed,collections,Bank account,General,DeltaLoans,IL,2023-06-15,No
+billing error,incorrect info,Mortgage,HELOC,Epsilon,CA,2023-06-16,No
+billing error,collections,Bank account,HELOC,CreditCo,TX,2023-06-17,Yes
+late payment,other,Mortgage,Auto,DeltaLoans,IL,2023-06-18,Yes
+interest rate,other,Loan,Savings,DeltaLoans,IL,2023-06-19,Yes
+account closed,application,Bank account,HELOC,Epsilon,CA,2023-06-20,No
+account closed,incorrect info,Loan,HELOC,CreditCo,CA,2023-06-21,No
+account closed,collections,Mortgage,Savings,Epsilon,FL,2023-06-22,Yes
+account closed,fees,Loan,HELOC,Epsilon,TX,2023-06-23,Yes
+fraud charge,application,Mortgage,General,DeltaLoans,CA,2023-06-24,Yes
+late payment,collections,Bank account,Savings,Acme Corp,CA,2023-06-25,Yes
+billing error,other,Loan,FHA,Acme Corp,IL,2023-06-26,Yes
+billing error,application,Mortgage,HELOC,BlueBank,TX,2023-06-27,Yes
+account closed,fees,Bank account,FHA,DeltaLoans,CA,2023-06-28,No
+billing error,application,Mortgage,General,BlueBank,IL,2023-06-29,Yes
+interest rate,collections,Mortgage,General,CreditCo,CA,2023-06-30,Yes
+interest rate,fees,Loan,Savings,Acme Corp,FL,2023-07-01,Yes
+interest rate,other,Loan,FHA,Acme Corp,NY,2023-07-02,Yes
+late payment,application,Loan,Savings,BlueBank,CA,2023-07-03,No
+interest rate,incorrect info,Bank account,HELOC,DeltaLoans,IL,2023-07-04,Yes
+billing error,incorrect info,Credit card,Auto,Acme Corp,CA,2023-07-05,No
+billing error,incorrect info,Bank account,Auto,Epsilon,NY,2023-07-06,Yes
+billing error,incorrect info,Credit card,FHA,CreditCo,NY,2023-07-07,Yes
+billing error,collections,Bank account,HELOC,Epsilon,IL,2023-07-08,No
+billing error,application,Bank account,Auto,DeltaLoans,IL,2023-07-09,Yes
+interest rate,other,Mortgage,Savings,Acme Corp,FL,2023-07-10,Yes
+billing error,fees,Credit card,Auto,CreditCo,CA,2023-07-11,No
+fraud charge,application,Bank account,Auto,Epsilon,FL,2023-07-12,No
+fraud charge,other,Mortgage,General,CreditCo,CA,2023-07-13,No
+billing error,collections,Loan,General,Acme Corp,TX,2023-07-14,Yes
+fraud charge,incorrect info,Bank account,General,BlueBank,CA,2023-07-15,Yes
+account closed,other,Bank account,FHA,Epsilon,IL,2023-07-16,No
+billing error,collections,Credit card,Auto,DeltaLoans,FL,2023-07-17,Yes
+late payment,collections,Bank account,Savings,DeltaLoans,FL,2023-07-18,No
+account closed,collections,Loan,Auto,DeltaLoans,FL,2023-07-19,No

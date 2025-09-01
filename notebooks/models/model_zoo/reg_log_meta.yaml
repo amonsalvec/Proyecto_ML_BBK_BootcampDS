@@ -1,0 +1,41 @@
+model_name: reg_log
+best_score_cv: 0.8159277443799755
+best_params:
+  reglog__C: !!python/object/apply:numpy._core.multiarray.scalar
+  - !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    mpmZmZmZuT8=
+  reglog__penalty: l2
+  selectkbest__k: 5000
+threshold_opt_f1_no: 0.1912194734678555
+metrics@opt:
+  threshold: 0.1912194734678555
+  roc_auc: 0.9043215577618717
+  pr_auc: 0.9970680633138684
+  f1_yes: 0.9839737752686214
+  f1_no: 0.375886524822695
+  balanced_acc: 0.6786962210420996
+metrics@0.5:
+  threshold: 0.5
+  roc_auc: 0.9043215577618717
+  pr_auc: 0.9970680633138684
+  f1_yes: 0.9004682674105808
+  f1_no: 0.18581907090464547
+  balanced_acc: 0.8129749352215296
+artifacts:
+  gridsearch_pkl: models\model_zoo\gridsearch_reg_log.pkl
+  best_estimator_pkl: models\model_zoo\best_reg_log.pkl
+  cv_results_csv: models\model_zoo\cv_results_reg_log.csv

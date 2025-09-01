@@ -1,0 +1,24 @@
+model_name: linsvm
+best_score_cv: 0.7429402737684474
+best_params:
+  linsvm__C: 0.25
+  selectkbest__k: 5000
+threshold_opt_f1_no: 0.2143168203491946
+metrics@opt:
+  threshold: 0.2143168203491946
+  roc_auc: 0.9142102157572026
+  pr_auc: 0.9972542267940346
+  f1_yes: 0.9872842870118075
+  f1_no: 0.44881889763779526
+  balanced_acc: 0.6956951178839887
+metrics@0.5:
+  threshold: 0.5
+  roc_auc: 0.9142102157572026
+  pr_auc: 0.9972542267940346
+  f1_yes: 0.8493408662900188
+  f1_no: 0.1559202813599062
+  balanced_acc: 0.8379819903024706
+artifacts:
+  gridsearch_pkl: models\model_zoo\gridsearch_linsvm.pkl
+  best_estimator_pkl: models\model_zoo\best_linsvm.pkl
+  cv_results_csv: models\model_zoo\cv_results_linsvm.csv

@@ -1,0 +1,1001 @@
+Unnamed: 0,Complaint ID,Product,Sub-product,Issue,Sub-issue,State,ZIP code,Date received,Date sent to company,Company,Company response,Timely response?,Consumer disputed?
+22863,1194445,Bank account or service,Checking account,Problems caused by my funds being low,,TX,75662.0,2015-01-15,2015-01-15,BBVA Compass,Closed with explanation,Yes,Yes
+6688,1249656,Debt collection,,Communication tactics,Called after sent written cease of comm,OH,44134.0,2015-02-20,2015-02-20,"Halsted Financial Services, LLC.",Closed with explanation,Yes,Yes
+8703,1243513,Credit card,,Closing/Cancelling account,,IL,60091.0,2015-02-17,2015-02-17,Discover,Closed with explanation,Yes,
+4685,1256840,Debt collection,Credit card,Improper contact or sharing of info,Talked to a third party about my debt,PA,19010.0,2015-02-25,2015-03-11,"First Step Group, LLC",Closed,Yes,
+7922,1244297,Credit reporting,,Incorrect information on credit report,Public record,VA,20190.0,2015-02-18,2015-02-18,TransUnion,Closed with explanation,Yes,Yes
+9254,1241289,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,OH,43502.0,2015-02-14,2015-02-15,"Caliber Home Loans, Inc",Closed with explanation,Yes,
+943,1274517,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,TX,78225.0,2015-03-09,2015-03-09,Equifax,Closed with explanation,Yes,Yes
+20689,1202769,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,VA,20121.0,2015-01-21,2015-01-21,Bank of America,Closed with explanation,Yes,
+22213,1196811,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,OH,45694.0,2015-01-16,2015-01-30,HSBC,Closed with explanation,Yes,Yes
+11769,1232856,Consumer loan,Installment loan,Shopping for a loan or lease,,IL,60445.0,2015-02-09,2015-02-12,Avant Credit Corporation,Closed with explanation,Yes,Yes
+27633,1178599,Debt collection,Payday loan,False statements or representation,Impersonated an attorney or official,MO,63366.0,2015-01-02,2015-01-06,Westgate Arbitration INC,Closed with explanation,Yes,No
+5221,1254904,Credit reporting,,Incorrect information on credit report,Public record,SC,29115.0,2015-02-24,2015-02-24,Experian,Closed with explanation,Yes,
+10463,1236658,Debt collection,"Other (phone, health club, etc.)",Improper contact or sharing of info,Talked to a third party about my debt,ME,4605.0,2015-02-11,2015-02-11,"Enhanced Recovery Company, LLC",Closed with non-monetary relief,Yes,Yes
+9936,1239357,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,CO,80128.0,2015-02-12,2015-02-13,Bank of America,Closed with explanation,Yes,
+17250,1213232,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Right to dispute notice not received,NC,27612.0,2015-01-28,2015-01-28,"Portfolio Recovery Associates, Inc.",Closed with non-monetary relief,Yes,
+22000,1197525,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,NV,,2015-01-16,2015-01-16,TransUnion,Closed with explanation,Yes,
+4952,1257246,Bank account or service,Checking account,"Account opening, closing, or management",,,33144.0,2015-02-25,2015-02-25,Bank of America,Closed with explanation,Yes,
+5464,1254505,Credit reporting,,Incorrect information on credit report,Information is not mine,CA,93221.0,2015-02-24,2015-02-24,Equifax,Closed with explanation,Yes,
+27433,1179543,Consumer loan,Vehicle loan,Managing the loan or lease,,NJ,8830.0,2015-01-03,2015-02-10,MOTORS FINANCIAL ACCEPTANCE CORPORATION,Closed with monetary relief,Yes,
+1588,1268514,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,CA,90806.0,2015-03-05,2015-03-05,Specialized Loan Servicing LLC,Closed with explanation,Yes,
+4384,1259439,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,WA,99336.0,2015-02-26,2015-02-26,Umpqua Holdings Corporation,Closed with explanation,Yes,
+22151,1196627,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,OH,45252.0,2015-01-16,2015-01-16,Nationstar Mortgage,Closed with explanation,Yes,
+626,1274986,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,TX,75006.0,2015-03-10,2015-03-10,"Credit Protection Association, L.P.",Closed with non-monetary relief,Yes,
+20391,1202921,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,PA,19002.0,2015-01-21,2015-01-21,Citibank,Closed with explanation,Yes,
+4320,1259045,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,FL,33317.0,2015-02-26,2015-02-26,"Green Tree Servicing, LLC",In progress,Yes,
+5572,1254975,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,TX,78070.0,2015-02-24,2015-02-24,Citibank,In progress,Yes,
+12717,1229997,Bank account or service,Checking account,Using a debit or ATM card,,NJ,7885.0,2015-02-06,2015-02-09,JPMorgan Chase,Closed with explanation,Yes,
+15820,1218599,Debt collection,Payday loan,Improper contact or sharing of info,Contacted employer after asked not to,TX,76179.0,2015-01-30,2015-01-30,"National Credit Adjusters, LLC",Closed with explanation,Yes,
+18580,1209786,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",,SC,29607.0,2015-01-26,2015-01-27,EverBank,Closed with explanation,Yes,
+7525,1249262,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,TX,77073.0,2015-02-19,2015-02-20,"Enhanced Acquisitions, LLC",Closed with explanation,Yes,
+18985,1206780,Credit reporting,,Incorrect information on credit report,Account status,TX,76116.0,2015-01-23,2015-02-11,Equifax,Closed with explanation,Yes,
+25046,1188104,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,NY,10541.0,2015-01-09,2015-01-09,Wells Fargo,Closed with explanation,Yes,
+10670,1235081,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,NV,89104.0,2015-02-11,2015-02-18,Bank of America,In progress,Yes,
+5516,1254605,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Frequent or repeated calls,MO,64068.0,2015-02-24,2015-03-03,TekCollect Inc.,Closed with explanation,Yes,
+1758,1268556,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,NH,3779.0,2015-03-05,2015-03-05,Citibank,In progress,Yes,
+24178,1191065,Mortgage,FHA mortgage,"Application, originator, mortgage broker",,CA,96145.0,2015-01-12,2015-01-15,"Shellpoint Partners, LLC",Closed with explanation,Yes,
+12680,1229053,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,HI,96813.0,2015-02-06,2015-02-11,Ocwen,In progress,Yes,
+24698,1189390,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,FL,33614.0,2015-01-10,2015-01-14,TransUnion,Closed with explanation,Yes,
+2730,1262931,Debt collection,,Disclosure verification of debt,Not given enough info to verify debt,KY,42420.0,2015-03-02,2015-03-02,"Asset Recovery Solutions, LLC",Untimely response,No,
+2240,1267578,Consumer loan,Vehicle loan,Problems when you are unable to pay,,MI,49456.0,2015-03-04,2015-03-09,Ocwen,Closed,Yes,
+4739,1256200,Bank account or service,Checking account,"Account opening, closing, or management",,KY,40509.0,2015-02-25,2015-02-26,U.S. Bancorp,Closed with non-monetary relief,Yes,
+20088,1204721,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,CA,95472.0,2015-01-22,2015-01-22,Wells Fargo,Closed with explanation,Yes,
+17166,1215814,Credit reporting,,Incorrect information on credit report,Account terms,CA,92880.0,2015-01-28,2015-02-03,TransUnion,Closed with explanation,Yes,
+20408,1203236,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,NY,10977.0,2015-01-21,2015-02-03,Mullooly Jeffrey Rooney & Flynn,Closed with explanation,Yes,
+20273,1203618,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,WA,98685.0,2015-01-21,2015-01-22,Encore Capital Group,Closed with non-monetary relief,Yes,
+10606,1236505,Credit card,,Closing/Cancelling account,,WA,98012.0,2015-02-11,2015-02-11,Discover,Closed with explanation,Yes,
+21369,1200408,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,2015-01-20,2015-01-21,Stellar Recovery Inc.,Closed with explanation,Yes,
+9427,1239042,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,KS,67215.0,2015-02-13,2015-02-13,Experian,Closed with non-monetary relief,Yes,
+10004,1237620,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,MN,55943.0,2015-02-12,2015-02-12,Experian,Closed with monetary relief,Yes,
+26262,1182040,Debt collection,"Other (phone, health club, etc.)",Improper contact or sharing of info,Contacted me after I asked not to,CT,6511.0,2015-01-06,2015-01-06,"I.C. System, Inc.",Closed with explanation,Yes,
+22709,1195344,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,KS,66213.0,2015-01-15,2015-01-15,U.S. Bancorp,Closed with explanation,Yes,
+4745,1259540,Money transfers,International money transfer,Fraud or scam,,AZ,85032.0,2015-02-25,2015-02-26,MoneyGram,Closed with explanation,Yes,Yes
+10977,1236637,Debt collection,Mortgage,Cont'd attempts collect debt not owed,Debt is not mine,NY,11433.0,2015-02-11,2015-02-18,"Select Portfolio Servicing, Inc",Closed with explanation,Yes,
+26447,1182725,Credit card,,Convenience checks,,CA,95822.0,2015-01-06,2015-01-06,Citibank,Closed with explanation,Yes,Yes
+7070,1247381,Credit card,,Credit determination,,GA,31522.0,2015-02-19,2015-02-25,"Cavalry Investments, LLC",Closed with explanation,Yes,
+26630,1183617,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,CA,95373.0,2015-01-06,2015-01-06,"Expert Global Solutions, Inc.",Closed with explanation,Yes,
+15127,1220192,Credit reporting,,Incorrect information on credit report,Account terms,NC,28079.0,2015-02-02,2015-02-05,TransUnion,Closed with explanation,Yes,
+16533,1216168,Credit card,,Other,,SC,29073.0,2015-01-29,2015-01-29,GE Capital Retail,Closed with non-monetary relief,Yes,
+12933,1229348,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,FL,91402.0,2015-02-06,2015-02-11,Ocwen,Closed with explanation,Yes,
+26266,1182039,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,IL,60146.0,2015-01-06,2015-01-26,Citibank,Closed with explanation,Yes,
+3525,1260850,Credit reporting,,Credit monitoring or identity protection,Account terms and changes,CO,80439.0,2015-02-27,2015-02-27,TransUnion,Closed with explanation,Yes,
+18614,1209936,Credit reporting,,Incorrect information on credit report,Account status,AZ,85395.0,2015-01-26,2015-02-11,LexisNexis,Closed with explanation,Yes,
+25607,1186267,Credit card,,Closing/Cancelling account,,VT,5478.0,2015-01-08,2015-01-13,TD Bank,Closed with explanation,Yes,Yes
+27111,1181217,Credit card,,Unsolicited issuance of credit card,,MN,55378.0,2015-01-05,2015-01-05,U.S. Bancorp,Closed with non-monetary relief,Yes,No
+21582,1198560,Credit reporting,,Incorrect information on credit report,Information is not mine,WI,53704.0,2015-01-19,2015-01-19,TransUnion,Closed with explanation,Yes,
+2744,1264028,Credit reporting,,Incorrect information on credit report,Public record,TX,77064.0,2015-03-02,2015-03-02,Experian,Closed with explanation,Yes,Yes
+21584,1198559,Credit card,,Balance transfer,,CT,,2015-01-19,2015-01-19,Discover,Closed with non-monetary relief,Yes,
+3383,1261921,Credit card,,Other,,TX,75773.0,2015-02-28,2015-02-28,Citibank,Closed with monetary relief,Yes,
+6316,1253179,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,FL,32955.0,2015-02-22,2015-02-23,Ocwen,Closed with explanation,No,
+6111,1253358,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,IL,60657.0,2015-02-23,2015-02-23,"I.C. System, Inc.",Closed with explanation,Yes,Yes
+9093,1241325,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,WI,53110.0,2015-02-15,2015-02-15,Ocwen,Closed with explanation,Yes,Yes
+2907,1263342,Payday loan,,Charged fees or interest I didn't expect,,NJ,7601.0,2015-03-02,2015-03-11,"CashCall, Inc.",Closed with explanation,Yes,Yes
+14907,1219848,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,NY,10014.0,2015-02-02,2015-02-04,"Diversified Adjustment Service, Inc.",In progress,Yes,
+21864,1198088,Credit reporting,,Incorrect information on credit report,Information is not mine,FL,32968.0,2015-01-17,2015-01-22,Equifax,Closed with explanation,Yes,Yes
+10152,1238391,Bank account or service,Checking account,Deposits and withdrawals,,MD,20895.0,2015-02-12,2015-02-24,Capital One,Closed with explanation,Yes,
+26462,1182832,Bank account or service,Checking account,Using a debit or ATM card,,NY,10026.0,2015-01-06,2015-01-06,Citibank,Closed with monetary relief,Yes,
+13576,1227546,Credit reporting,,Incorrect information on credit report,Account status,TN,38104.0,2015-02-05,2015-02-24,Equifax,Closed with explanation,Yes,
+1804,1270051,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,VA,22310.0,2015-03-05,2015-03-05,Residential Credit Solutions,Closed with explanation,Yes,
+3978,1258655,Money transfers,International money transfer,Money was not available when promised,,MD,20874.0,2015-02-26,2015-02-26,PNC Bank,In progress,Yes,
+13559,1228324,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,CA,94105.0,2015-02-05,2015-02-06,"Enhanced Recovery Company, LLC",Closed with non-monetary relief,Yes,
+6599,1250465,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Right to dispute notice not received,NY,10019.0,2015-02-20,2015-02-20,"Pinnacle Credit Services, LLC",Closed with explanation,Yes,
+24013,1190478,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,NV,89502.0,2015-01-12,2015-01-13,"Green Tree Servicing, LLC",Closed with explanation,Yes,
+6145,1253182,Consumer loan,Vehicle loan,Shopping for a loan or lease,,CO,80247.0,2015-02-23,2015-02-23,USAA Savings,Closed with non-monetary relief,Yes,
+7539,1247796,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,AL,36303.0,2015-02-19,2015-02-25,Solidus Group LLC.,Closed with explanation,Yes,
+2932,1263926,Mortgage,VA mortgage,"Loan modification,collection,foreclosure",,CA,95060.0,2015-03-02,2015-03-02,Bank of America,Closed,Yes,Yes
+19934,1205892,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,TX,75559.0,2015-01-22,2015-01-23,Capital One,Closed with explanation,Yes,
+24880,1189127,Mortgage,Home equity loan or line of credit,"Application, originator, mortgage broker",,CA,95945.0,2015-01-09,2015-01-12,Citibank,Closed with explanation,Yes,
+11557,1231704,Credit card,,Late fee,,CA,90503.0,2015-02-09,2015-02-09,GE Capital Retail,Closed with monetary relief,Yes,
+21892,1198217,Mortgage,Home equity loan or line of credit,"Application, originator, mortgage broker",,OR,97127.0,2015-01-17,2015-01-22,Wells Fargo,Closed with explanation,Yes,
+10821,1236440,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,VA,24083.0,2015-02-11,2015-02-18,JPMorgan Chase,Closed with explanation,Yes,Yes
+11798,1230711,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,FL,33186.0,2015-02-09,2015-02-09,"Sherloq Group, Inc",Closed with explanation,Yes,Yes
+13707,1224370,Credit reporting,,Incorrect information on credit report,Information is not mine,NY,11590.0,2015-02-04,2015-02-04,Experian,Closed,Yes,
+14044,1226215,Credit card,,Delinquent account,,MD,21236.0,2015-02-04,2015-02-11,Citibank,Closed with explanation,Yes,
+6824,1250773,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,FL,32824.0,2015-02-20,2015-02-21,"Select Portfolio Servicing, Inc",Closed with explanation,Yes,
+12794,1227886,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Frequent or repeated calls,GA,30044.0,2015-02-06,2015-02-06,"Credence Resource Management, LLC",Closed with explanation,No,
+15716,1219614,Credit reporting,,Incorrect information on credit report,Personal information,PA,18015.0,2015-01-31,2015-02-01,Equifax,Closed with explanation,Yes,
+8413,1241946,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,MI,48382.0,2015-02-17,2015-02-23,Ocwen,In progress,Yes,
+21620,1198608,Credit card,,Balance transfer,,WA,98223.0,2015-01-19,2015-01-21,JPMorgan Chase,Closed with explanation,Yes,
+14159,1223763,Bank account or service,Checking account,Using a debit or ATM card,,FL,34656.0,2015-02-04,2015-02-05,Bank of America,Closed with explanation,Yes,
+9928,1237370,Money transfers,International money transfer,Other transaction issues,,OR,97217.0,2015-02-12,2015-02-12,Umpqua Holdings Corporation,Closed with monetary relief,Yes,
+28120,1178065,Credit reporting,,Incorrect information on credit report,Account status,OH,44122.0,2015-01-01,2015-01-01,Equifax,Closed with explanation,Yes,No
+22117,1198144,Bank account or service,Checking account,"Account opening, closing, or management",,GA,30324.0,2015-01-16,2015-01-17,Ally Financial Inc.,Closed with explanation,Yes,
+6483,1251040,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,MA,2163.0,2015-02-21,2015-02-21,"The CBE Group, Inc.",Closed with explanation,Yes,
+10125,1237418,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,MA,2048.0,2015-02-12,2015-02-19,JPMorgan Chase,In progress,Yes,
+19027,1207295,Prepaid card,Gift or merchant card,Unauthorized transactions/trans. issues,,NJ,7040.0,2015-01-23,2015-01-28,Amex,Closed with explanation,Yes,
+27825,1179161,Credit reporting,,Incorrect information on credit report,Information is not mine,CA,94571.0,2015-01-02,2015-01-08,Equifax,Closed with explanation,Yes,No
+19780,1204498,Money transfers,Domestic (US) money transfer,Incorrect/missing disclosures or info,,CA,95131.0,2015-01-22,2015-01-22,PayPal,Closed,Yes,
+12900,1228510,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt was paid,TN,37921.0,2015-02-06,2015-02-18,RJM Acquisitions LLC,Closed with explanation,Yes,
+16255,1217229,Credit reporting,,Credit reporting company's investigation,Investigation took too long,CA,92811.0,2015-01-29,2015-01-29,Equifax,Closed with explanation,Yes,
+23211,1195621,Debt collection,Credit card,Communication tactics,Used obscene/profane/abusive language,MI,48034.0,2015-01-14,2015-01-15,"Portfolio Recovery Associates, Inc.",Closed with explanation,Yes,
+25208,1186487,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,MO,20715.0,2015-01-08,2015-01-15,Franklin Credit Management,Closed with explanation,Yes,
+23104,1193279,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",,PA,19428.0,2015-01-14,2015-01-16,Wells Fargo,Closed with explanation,Yes,Yes
+16720,1215698,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,NY,11030.0,2015-01-28,2015-01-29,"Mercantile Adjustment Bureau, LLC",Closed with explanation,Yes,
+5382,1254256,Credit reporting,,Incorrect information on credit report,Information is not mine,TX,77340.0,2015-02-24,2015-02-24,Equifax,In progress,Yes,
+12053,1233055,Bank account or service,Checking account,"Account opening, closing, or management",,CA,93065.0,2015-02-09,2015-02-10,JPMorgan Chase,Closed with explanation,Yes,Yes
+21148,1199485,Mortgage,Other mortgage,Settlement process and costs,,OH,43207.0,2015-01-20,2015-01-20,U.S. Bancorp,Closed with explanation,Yes,
+12233,1230542,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,TX,76301.0,2015-02-08,2015-02-08,Nationstar Mortgage,Closed with explanation,Yes,
+25217,1186539,Money transfers,Domestic (US) money transfer,Money was not available when promised,,PA,19446.0,2015-01-08,2015-01-13,PNC Bank,Closed with explanation,Yes,Yes
+4254,1258899,Credit reporting,,Incorrect information on credit report,Account status,WA,98101.0,2015-02-26,2015-02-26,TransUnion,Closed with explanation,Yes,
+24946,1188040,Student loan,Non-federal student loan,Can't repay my loan,,CA,91307.0,2015-01-09,2015-01-13,Sallie Mae,Closed with explanation,Yes,
+24165,1191037,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,NJ,8723.0,2015-01-12,2015-01-15,"Green Tree Servicing, LLC",Closed with explanation,Yes,Yes
+23106,1193282,Credit card,,Other,,CO,80112.0,2015-01-14,2015-01-14,Citibank,Closed with non-monetary relief,Yes,
+15130,1219819,Credit card,,Overlimit fee,,CA,95202.0,2015-02-02,2015-02-03,U.S. Bancorp,Closed with explanation,Yes,Yes
+12976,1228656,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,NJ,7871.0,2015-02-06,2015-02-10,Ocwen,Closed with explanation,Yes,
+3993,1258697,Credit reporting,,Incorrect information on credit report,Account status,MA,1945.0,2015-02-26,2015-03-04,TransUnion,Closed with explanation,Yes,
+12377,1230380,Credit reporting,,Credit reporting company's investigation,Investigation took too long,CT,6082.0,2015-02-07,2015-02-08,TransUnion,Closed with explanation,Yes,
+13693,1223749,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,MA,2554.0,2015-02-04,2015-02-09,JPMorgan Chase,In progress,Yes,
+4461,1256765,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,NJ,7843.0,2015-02-25,2015-02-25,M&T Bank,In progress,Yes,
+27310,1180099,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,CA,92612.0,2015-01-04,2015-01-05,Bonneville Billing and Collections,Closed with explanation,Yes,No
+5485,1254673,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",,UT,84401.0,2015-02-24,2015-02-26,USAA Savings,Closed with explanation,Yes,
+15420,1220230,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,CT,6241.0,2015-02-02,2015-02-02,"Portfolio Recovery Associates, Inc.",Closed with non-monetary relief,Yes,
+19787,1204121,Credit reporting,,Incorrect information on credit report,Account status,TX,76018.0,2015-01-22,2015-02-27,TransUnion,Closed with explanation,Yes,
+15547,1219655,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,AZ,85209.0,2015-02-01,2015-02-01,"Convergent Resources, Inc.",Closed with explanation,Yes,
+20042,1204544,Credit reporting,,Incorrect information on credit report,Account status,CA,92270.0,2015-01-22,2015-01-22,Experian,Closed with non-monetary relief,Yes,
+27594,1179958,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,WA,98033.0,2015-01-03,2015-01-04,Encore Capital Group,Closed with non-monetary relief,Yes,No
+579,1277408,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,NJ,7728.0,2015-03-11,2015-03-11,Experian,In progress,Yes,
+5535,1254911,Credit card,,Other,,NJ,8817.0,2015-02-24,2015-03-06,Capital One,Closed with explanation,Yes,
+3829,1261735,Credit card,,Closing/Cancelling account,,CA,94014.0,2015-02-27,2015-03-02,Bank of America,Closed with explanation,Yes,
+11227,1234496,Mortgage,Other mortgage,"Application, originator, mortgage broker",,WA,98362.0,2015-02-10,2015-02-10,OneWest Bank,Closed with non-monetary relief,Yes,Yes
+12733,1228559,Credit reporting,,Incorrect information on credit report,Information is not mine,AZ,85301.0,2015-02-06,2015-03-09,Experian,In progress,Yes,
+3318,1262068,Mortgage,Home equity loan or line of credit,"Application, originator, mortgage broker",,IL,60016.0,2015-02-28,2015-03-01,TCF National Bank,Closed with explanation,Yes,
+16707,1216066,Debt collection,Payday loan,Communication tactics,Threatened to take legal action,OH,43068.0,2015-01-29,2015-01-29,Checksmart Financial Company,Closed with explanation,Yes,
+26159,1183877,Student loan,Non-federal student loan,Can't repay my loan,,AZ,85226.0,2015-01-07,2015-01-07,Genesis Lending,Closed with explanation,Yes,Yes
+24875,1189112,Debt collection,Medical,Disclosure verification of debt,Right to dispute notice not received,AL,36869.0,2015-01-09,2015-01-09,Revenue Recovery Corporation,Closed with explanation,Yes,Yes
+27918,1178257,Money transfers,Domestic (US) money transfer,Other transaction issues,,GA,30180.0,2015-01-02,2015-01-07,Western Union,Closed with explanation,Yes,
+23555,1205607,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,CA,95391.0,2015-01-13,2015-01-13,Bank of America,Closed with explanation,Yes,
+21557,1198468,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,TX,75044.0,2015-01-19,2015-01-19,Experian,Closed with non-monetary relief,Yes,
+25523,1185893,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,NY,12182.0,2015-01-08,2015-01-13,Bank of America,Closed with explanation,Yes,
+27112,1181247,Credit reporting,,Incorrect information on credit report,Information is not mine,AZ,85296.0,2015-01-05,2015-01-09,Experian,Closed with explanation,Yes,No
+23059,1193086,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,MD,21222.0,2015-01-14,2015-01-16,Specialized Loan Servicing LLC,Closed,Yes,
+24464,1189491,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,TX,75074.0,2015-01-11,2015-01-11,Bank of America,Closed with explanation,Yes,Yes
+7886,1244190,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,LA,70006.0,2015-02-18,2015-02-18,Academy Mortgage,Closed with explanation,Yes,
+11766,1232861,Prepaid card,Government benefit payment card,"Managing, opening, or closing account",,MO,64134.0,2015-02-09,2015-02-13,"NetSpend Corporation,  a TSYS Company",Closed with explanation,Yes,
+16264,1216613,Credit reporting,,Incorrect information on credit report,Account terms,CA,90805.0,2015-01-29,2015-02-03,Discover,Closed with explanation,Yes,
+8518,1243659,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,NY,11746.0,2015-02-17,2015-02-27,Wells Fargo,Closed with explanation,Yes,
+14431,1221579,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,MI,48382.0,2015-02-03,2015-02-06,Wells Fargo,Closed with explanation,Yes,
+5673,1251622,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,NJ,7112.0,2015-02-23,2015-02-27,"Shellpoint Partners, LLC",Closed with explanation,Yes,
+12499,1230286,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,NJ,8857.0,2015-02-07,2015-02-07,"Portfolio Recovery Associates, Inc.",Closed with explanation,Yes,Yes
+12520,1230230,Credit reporting,,Incorrect information on credit report,Information is not mine,NY,10128.0,2015-02-07,2015-02-07,TransUnion,In progress,Yes,
+15435,1219636,Credit card,,Other,,NY,10452.0,2015-02-01,2015-02-05,"Portfolio Recovery Associates, Inc.",Closed with explanation,Yes,Yes
+10664,1237338,Debt collection,Credit card,Improper contact or sharing of info,Contacted me after I asked not to,FL,32218.0,2015-02-11,2015-02-12,"Portfolio Recovery Associates, Inc.",Closed with non-monetary relief,Yes,Yes
+13754,1226092,Bank account or service,Other bank product/service,"Account opening, closing, or management",,GA,30814.0,2015-02-04,2015-02-05,Regions,Closed with explanation,Yes,
+1227,1270447,Consumer loan,Vehicle lease,Managing the loan or lease,,GA,30066.0,2015-03-06,2015-03-06,Ally Financial Inc.,In progress,Yes,
+26821,1180219,Bank account or service,Checking account,Problems caused by my funds being low,,NY,11212.0,2015-01-05,2015-01-05,Bank of America,Closed with monetary relief,Yes,
+28023,1178486,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,MD,21227.0,2015-01-02,2015-01-02,"Commonwealth Financial Systems, Inc.",Closed with explanation,Yes,No
+9453,1240238,Debt collection,Credit card,Communication tactics,Threatened to take legal action,MN,56011.0,2015-02-13,2015-02-13,Encore Capital Group,Closed with explanation,Yes,Yes
+13954,1224701,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,UT,84170.0,2015-02-04,2015-02-04,"Health Services Asset Management, LLC.",Closed with explanation,Yes,Yes
+9116,1241423,Credit card,,Closing/Cancelling account,,CA,92617.0,2015-02-15,2015-02-15,Discover,Closed with explanation,Yes,
+16254,1216291,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,MD,20740.0,2015-01-29,2015-01-29,TransUnion,Closed with non-monetary relief,Yes,
+17629,1211592,Credit reporting,,Incorrect information on credit report,Account status,OH,44147.0,2015-01-27,2015-02-26,Equifax,Closed with explanation,Yes,
+3421,1261874,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,NY,11793.0,2015-02-28,2015-02-28,Wells Fargo,Closed with explanation,Yes,
+28033,1178066,Credit reporting,,Incorrect information on credit report,Account status,OH,44122.0,2015-01-01,2015-01-01,Experian,Closed with explanation,Yes,
+27399,1179927,Credit card,,Credit card protection / Debt protection,,TX,78738.0,2015-01-04,2015-01-08,Capital One,Closed with explanation,Yes,
+13914,1223955,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,CA,92626.0,2015-02-04,2015-02-04,"Servis One, Inc.",In progress,Yes,
+25274,1186772,Credit reporting,,Incorrect information on credit report,Information is not mine,FL,33137.0,2015-01-08,2015-01-08,Equifax,Closed with explanation,Yes,No
+25188,1188645,Consumer loan,Installment loan,Problems when you are unable to pay,,IL,60438.0,2015-01-09,2015-01-09,"PLS GROUP, INC",Closed with non-monetary relief,Yes,
+19196,1206731,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,FL,34428.0,2015-01-23,2015-01-28,JPMorgan Chase,Closed with explanation,Yes,
+25613,1186387,Credit card,,Credit card protection / Debt protection,,NY,10040.0,2015-01-08,2015-01-13,Citibank,Closed with explanation,Yes,Yes
+6235,1251142,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,AE,9012.0,2015-02-22,2015-02-22,Nationstar Mortgage,In progress,Yes,
+20978,1201326,Credit reporting,,Incorrect information on credit report,Information is not mine,MD,20664.0,2015-01-20,2015-01-21,Equifax,Closed with explanation,Yes,
+16481,1216609,Credit reporting,,Incorrect information on credit report,Personal information,VA,20155.0,2015-01-29,2015-01-29,Equifax,Closed with explanation,Yes,
+1122,1272905,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,TX,77044.0,2015-03-08,2015-03-09,"ResidentCollect, Inc.",Closed with explanation,Yes,
+15045,1219774,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,WI,53548.0,2015-02-02,2015-02-02,Equifax,Closed with explanation,Yes,Yes
+312,1279573,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,UT,84532.0,2015-03-12,2015-03-12,Experian,Closed with explanation,Yes,
+9791,1239816,Credit card,,Identity theft / Fraud / Embezzlement,,TX,77266.0,2015-02-13,2015-02-13,Capital One,Closed with explanation,Yes,
+12645,1230063,Consumer loan,Installment loan,Taking out the loan or lease,,GA,30126.0,2015-02-06,2015-03-09,Argon Credit,Closed with explanation,Yes,
+12776,1230098,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,CA,93230.0,2015-02-06,2015-02-07,Ocwen,Closed with non-monetary relief,Yes,
+5678,1251619,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,CA,90013.0,2015-02-23,2015-02-27,Bank of America,In progress,Yes,
+13941,1225685,Consumer loan,Vehicle loan,Shopping for a loan or lease,,,,2015-02-04,2015-02-11,"BlueYield, Inc.",Closed,Yes,
+25915,1185614,Credit reporting,,Incorrect information on credit report,Account terms,IL,60046.0,2015-01-07,2015-01-07,Experian,Closed with explanation,Yes,Yes
+18239,1209905,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,KS,67025.0,2015-01-26,2015-01-29,USAA Savings,Closed with explanation,Yes,
+25852,1184211,Credit card,,Late fee,,OR,97448.0,2015-01-07,2015-01-07,Amex,Closed with monetary relief,Yes,
+2208,1268264,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,NC,28546.0,2015-03-04,2015-03-10,Equifax,Closed with explanation,Yes,
+96,1284165,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,DC,20008.0,2015-03-16,2015-03-16,"PrimeLending, A PlainsCapital Company",In progress,Yes,
+19981,1204400,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,NJ,7024.0,2015-01-22,2015-01-22,Wells Fargo,Closed with monetary relief,Yes,
+26171,1183879,Debt collection,Credit card,Taking/threatening an illegal action,Seized/Attempted to seize property,KY,40962.0,2015-01-07,2015-01-07,"Mapother & Mapother, PSC",Closed with explanation,Yes,
+6138,1252499,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,FL,33015.0,2015-02-23,2015-02-27,Wells Fargo,In progress,Yes,
+25750,1184881,Bank account or service,Other bank product/service,"Account opening, closing, or management",,FL,33301.0,2015-01-07,2015-01-12,"Bayview Loan Servicing, LLC",Closed with explanation,Yes,
+15280,1220628,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,IL,60554.0,2015-02-02,2015-02-05,Resurgent Capital Services L.P.,Closed with explanation,Yes,
+9870,1237963,Debt collection,"Other (phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,CA,92562.0,2015-02-12,2015-02-12,West Corporation,Closed with explanation,Yes,Yes
+2579,1264461,Debt collection,Non-federal student loan,Cont'd attempts collect debt not owed,Debt was paid,VA,24541.0,2015-03-03,2015-03-03,Navient,Closed with explanation,Yes,
+22189,1196556,Mortgage,Home equity loan or line of credit,"Loan servicing, payments, escrow account",,AL,35219.0,2015-01-16,2015-01-16,BBVA Compass,Closed with monetary relief,Yes,Yes
+27259,1181845,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,NM,87114.0,2015-01-05,2015-01-06,Weststar Mortgage Corporation,Closed with explanation,Yes,No
+7794,1245718,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,KS,66083.0,2015-02-18,2015-02-18,"PennyMac Loan Services, LLC",Closed with explanation,Yes,Yes
+11191,1232809,Mortgage,FHA mortgage,Settlement process and costs,,AL,36660.0,2015-02-10,2015-02-10,JPMorgan Chase,Closed with explanation,Yes,
+9683,1240985,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,OK,73099.0,2015-02-13,2015-02-14,Nationstar Mortgage,Closed with explanation,Yes,
+27675,1178732,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,CA,95975.0,2015-01-02,2015-01-02,Santander Bank US,Closed,Yes,Yes
+26286,1182145,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,PA,19026.0,2015-01-06,2015-01-09,"Asta Funding, Inc",Closed with explanation,Yes,No
+13651,1223907,Credit reporting,,Incorrect information on credit report,Information is not mine,IN,46040.0,2015-02-04,2015-02-04,Experian,Closed with non-monetary relief,Yes,
+21576,1198544,Bank account or service,Checking account,"Account opening, closing, or management",,FL,34212.0,2015-01-19,2015-01-22,"Early Warning Services, LLC",Closed with explanation,Yes,
+19373,1207010,Credit reporting,,Incorrect information on credit report,Account status,CA,93556.0,2015-01-23,2015-02-13,TransUnion,Closed with non-monetary relief,Yes,
+19695,1205522,Bank account or service,Checking account,"Account opening, closing, or management",,TX,77065.0,2015-01-22,2015-01-22,JPMorgan Chase,Closed with explanation,Yes,
+14832,1221184,Mortgage,Home equity loan or line of credit,"Loan modification,collection,foreclosure",,NY,10709.0,2015-02-02,2015-02-02,Webster Bank,Closed with explanation,Yes,
+6029,1252688,Credit reporting,,Incorrect information on credit report,Public record,NJ,7039.0,2015-02-23,2015-02-23,Experian,In progress,Yes,
+22899,1192273,Payday loan,,Charged fees or interest I didn't expect,,CA,90008.0,2015-01-14,2015-01-16,"CashCall, Inc.",Closed with explanation,Yes,
+24499,1189599,Credit card,,Balance transfer,,ME,4083.0,2015-01-11,2015-01-15,Barclays,Closed with explanation,Yes,Yes
+13363,1226569,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,GA,30114.0,2015-02-05,2015-02-05,"Contract Callers, Inc.",Closed,Yes,
+24810,1188779,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,PA,19018.0,2015-01-09,2015-01-14,Experian,Closed with explanation,Yes,Yes
+8828,1242214,Debt collection,"Other (phone, health club, etc.)",Improper contact or sharing of info,Talked to a third party about my debt,HI,96737.0,2015-02-16,2015-02-17,"Diversified Consultants, Inc.",Closed with explanation,Yes,
+18280,1209812,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,PA,19103.0,2015-01-26,2015-01-29,Fifth Third Bank,Closed with explanation,Yes,
+10153,1237857,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,KS,67216.0,2015-02-12,2015-02-19,"Mid Continent Credit Services, Inc",Closed with explanation,Yes,
+4246,1259493,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,MI,48390.0,2015-02-26,2015-03-04,Ocwen,Closed with explanation,Yes,Yes
+9132,1241328,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,CA,92020.0,2015-02-15,2015-02-15,PNC Bank,In progress,Yes,
+24468,1189496,Credit reporting,,Incorrect information on credit report,Information is not mine,PR,678.0,2015-01-11,2015-01-11,Equifax,Closed with explanation,Yes,No
+516,1278125,Mortgage,Conventional fixed mortgage,Settlement process and costs,,VA,22911.0,2015-03-11,2015-03-11,Nationstar Mortgage,Closed with explanation,Yes,
+26166,1183887,Credit card,,Customer service / Customer relations,,KY,40206.0,2015-01-07,2015-01-07,U.S. Bancorp,Closed with explanation,Yes,No
+24057,1190563,Bank account or service,Checking account,"Making/receiving payments, sending money",,CA,90028.0,2015-01-12,2015-01-15,Capital One,Closed with explanation,Yes,
+15215,1220674,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,NV,89141.0,2015-02-02,2015-02-02,New York Community Bank,Closed with explanation,Yes,
+2111,1266774,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,VA,20169.0,2015-03-04,2015-03-04,Citibank,In progress,Yes,
+14118,1223859,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,MD,20735.0,2015-02-04,2015-02-04,"Select Portfolio Servicing, Inc",Closed with explanation,Yes,Yes
+20509,1201584,Bank account or service,Checking account,"Account opening, closing, or management",,AZ,85704.0,2015-01-21,2015-01-23,JPMorgan Chase,Closed with explanation,Yes,
+15370,1221234,Mortgage,Other mortgage,Settlement process and costs,,MI,48910.0,2015-02-02,2015-02-02,Citibank,In progress,Yes,
+7405,1247408,Credit card,,Identity theft / Fraud / Embezzlement,,GA,30250.0,2015-02-19,2015-02-25,SunTrust Bank,Closed with non-monetary relief,Yes,
+2982,1264611,Student loan,Non-federal student loan,Can't repay my loan,,AZ,85392.0,2015-03-02,2015-03-03,Genesis Lending,Closed with explanation,Yes,
+23590,1191587,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not disclosed as an attempt to collect,LA,70420.0,2015-01-13,2015-01-14,Resurgent Capital Services L.P.,Closed with explanation,Yes,
+9477,1239468,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,PA,15234.0,2015-02-13,2015-02-13,"Harvard Collections, LLC",Closed,Yes,
+18652,1208910,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,MD,21113.0,2015-01-25,2015-01-25,Encore Capital Group,Closed with explanation,Yes,
+7293,1246416,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,NY,11951.0,2015-02-19,2015-02-19,Citibank,In progress,Yes,
+10175,1238636,Bank account or service,Checking account,Deposits and withdrawals,,AR,72758.0,2015-02-12,2015-02-13,Wells Fargo,Closed,Yes,
+18219,1209960,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,VA,23222.0,2015-01-26,2015-01-29,Bank of America,In progress,Yes,
+13764,1225219,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt resulted from identity theft,CA,94404.0,2015-02-04,2015-02-05,"Credit Bureau Collection Services, Inc.",Closed with non-monetary relief,Yes,
+8170,1244961,Credit reporting,,Incorrect information on credit report,Information is not mine,TX,79414.0,2015-02-18,2015-02-18,Experian,Closed with explanation,Yes,
+10387,1234899,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,NY,11953.0,2015-02-11,2015-02-18,TransUnion,Closed with explanation,Yes,
+13344,1226006,Credit reporting,,Incorrect information on credit report,Account status,WI,53719.0,2015-02-05,2015-02-05,TransUnion,Closed with explanation,Yes,Yes
+11606,1231307,Bank account or service,Checking account,"Account opening, closing, or management",,TX,78212.0,2015-02-09,2015-02-09,Bank of America,Closed with explanation,Yes,
+12311,1230974,Credit card,,Customer service / Customer relations,,IL,60201.0,2015-02-08,2015-02-09,Capital One,In progress,Yes,
+13167,1228246,Debt collection,Auto,False statements or representation,Indicated committed crime not paying,WA,98661.0,2015-02-05,2015-02-06,GM Financial,Closed with explanation,Yes,
+26907,1180596,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",,FL,33952.0,2015-01-05,2015-01-07,BB&T Financial,Closed with explanation,Yes,No
+12530,1228498,Debt collection,Credit card,Taking/threatening an illegal action,Threatened to sue on too old debt,PA,15106.0,2015-02-06,2015-02-12,"Saints Recovery Group, Inc.",Closed with explanation,Yes,
+27403,1179932,Credit card,,APR or interest rate,,PA,19119.0,2015-01-04,2015-01-04,Wells Fargo,Closed with explanation,Yes,No
+12348,1230273,Credit reporting,,Incorrect information on credit report,Personal information,TX,76051.0,2015-02-07,2015-02-07,TransUnion,Closed with explanation,Yes,
+4519,1256648,Consumer loan,Vehicle loan,Problems when you are unable to pay,,TX,77066.0,2015-02-25,2015-03-03,TMX Finance LLC,Closed with explanation,Yes,
+4186,1259360,Credit reporting,,Incorrect information on credit report,Personal information,VA,23462.0,2015-02-26,2015-02-26,TransUnion,Closed with explanation,Yes,
+26229,1181963,Credit reporting,,Incorrect information on credit report,Public record,CA,92113.0,2015-01-06,2015-01-06,TransUnion,Closed with explanation,Yes,No
+26752,1181938,Bank account or service,Checking account,Problems caused by my funds being low,,WA,98118.0,2015-01-05,2015-01-06,Bank of America,Closed with explanation,Yes,
+19140,1206619,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,IA,51201.0,2015-01-23,2015-01-23,Equifax,Closed with non-monetary relief,Yes,
+19560,1205809,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,DC,20036.0,2015-01-23,2015-01-23,Nationstar Mortgage,Closed with explanation,Yes,
+13018,1228521,Credit card,,Closing/Cancelling account,,MS,39759.0,2015-02-06,2015-02-06,Discover,Closed with explanation,Yes,Yes
+22341,1197151,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,WI,53072.0,2015-01-16,2015-02-27,"SCP IV Pingora AIV, L.P",Closed with explanation,Yes,
+4058,1260015,Debt collection,,Improper contact or sharing of info,Contacted employer after asked not to,IL,60084.0,2015-02-26,2015-02-27,"Portfolio Recovery Associates, Inc.",Closed with explanation,Yes,Yes
+15931,1218532,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt was paid,OH,45040.0,2015-01-30,2015-01-30,JPMorgan Chase,Closed with explanation,Yes,
+24414,1190118,Bank account or service,Savings account,"Account opening, closing, or management",,CA,95062.0,2015-01-12,2015-01-15,Citibank,Closed with explanation,Yes,Yes
+17693,1211250,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,CA,95136.0,2015-01-27,2015-01-28,AllianceOne Recievables Management,Closed with explanation,Yes,
+26061,1184512,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not disclosed as an attempt to collect,MS,38663.0,2015-01-07,2015-01-07,Alliance Collection Service,Closed with explanation,Yes,Yes
+345,1280761,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,TX,75227.0,2015-03-12,2015-03-12,Flagstar Bank,In progress,Yes,
+19409,1205970,Credit reporting,,Incorrect information on credit report,Account status,IL,60643.0,2015-01-23,2015-03-09,Equifax,Closed with explanation,Yes,
+14371,1222439,Payday loan,,Received a loan I didn't apply for,,CA,92571.0,2015-02-03,2015-02-06,"Enhanced Acquisitions, LLC",Closed with explanation,Yes,
+17544,1212015,Mortgage,Home equity loan or line of credit,"Application, originator, mortgage broker",,NY,10573.0,2015-01-27,2015-01-30,PNC Bank,In progress,Yes,
+23573,1205624,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,AZ,85017.0,2015-01-13,2015-01-13,"Credit Protection Association, L.P.",Closed with explanation,Yes,
+7346,1246903,Credit card,,Identity theft / Fraud / Embezzlement,,NY,11219.0,2015-02-19,2015-02-27,JPMorgan Chase,Closed with explanation,Yes,Yes
+5048,1253757,Credit card,,APR or interest rate,,PA,15642.0,2015-02-24,2015-02-24,Citibank,Closed with explanation,Yes,
+26051,1184495,Credit card,,Customer service / Customer relations,,AR,72011.0,2015-01-07,2015-01-07,U.S. Bancorp,Closed with non-monetary relief,Yes,Yes
+23910,1192141,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,LA,70420.0,2015-01-13,2015-01-13,"Enhanced Recovery Company, LLC",Closed with non-monetary relief,Yes,Yes
+462,1277981,Credit reporting,,Incorrect information on credit report,Account status,CA,91508.0,2015-03-11,2015-03-11,Experian,Closed with explanation,Yes,
+9731,1240008,Credit reporting,,Incorrect information on credit report,Public record,GA,30315.0,2015-02-13,2015-02-13,Equifax,Closed with non-monetary relief,Yes,
+4814,1257353,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,WI,53548.0,2015-02-25,2015-02-25,"Malcolm S. Gerald and Associates, Inc.",Closed with non-monetary relief,Yes,
+8213,1245663,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,TX,77014.0,2015-02-18,2015-02-25,Citibank,In progress,Yes,
+8846,1241526,Mortgage,Other mortgage,"Application, originator, mortgage broker",,OR,97086.0,2015-02-16,2015-02-23,Ocwen,Closed with explanation,Yes,
+18997,1206324,Credit reporting,,Incorrect information on credit report,Account status,TX,76116.0,2015-01-23,2015-02-11,Equifax,Closed with explanation,Yes,
+11623,1231291,Credit reporting,,Incorrect information on credit report,Information is not mine,IL,60448.0,2015-02-09,2015-02-20,TransUnion,Closed with explanation,Yes,
+22741,1193918,Credit reporting,,Incorrect information on credit report,Information is not mine,AZ,37229.0,2015-01-15,2015-01-20,Equifax,Closed with explanation,Yes,
+11832,1231097,Credit reporting,,Incorrect information on credit report,Account status,WA,98520.0,2015-02-09,2015-02-12,Experian,Closed with non-monetary relief,Yes,
+22805,1194182,Credit reporting,,Incorrect information on credit report,Information is not mine,UT,84070.0,2015-01-15,2015-01-22,Experian,Closed with non-monetary relief,Yes,
+8919,1242097,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,FL,32725.0,2015-02-16,2015-02-23,TransUnion,Closed with explanation,Yes,
+4148,1257936,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,FL,33166.0,2015-02-26,2015-02-26,Bank of America,In progress,Yes,
+1109,1272871,Debt collection,"Other (phone, health club, etc.)",Taking/threatening an illegal action,Threatened to sue on too old debt,TX,78641.0,2015-03-08,2015-03-09,Miller Davis & Peoples,Closed with explanation,Yes,
+9375,1241082,Debt collection,Non-federal student loan,Cont'd attempts collect debt not owed,Debt is not mine,NY,10019.0,2015-02-14,2015-02-19,Transworld Systems Inc.,Closed with explanation,Yes,
+1412,1272410,Bank account or service,Other bank product/service,"Account opening, closing, or management",,HI,96826.0,2015-03-06,2015-03-07,First Hawaiian Bank,In progress,Yes,
+5683,1251617,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,CA,90059.0,2015-02-23,2015-02-27,Citibank,In progress,Yes,
+13218,1227146,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,MI,65801.0,2015-02-05,2015-03-03,Experian,Closed with explanation,Yes,
+14801,1222748,Student loan,Non-federal student loan,Can't repay my loan,,NY,10469.0,2015-02-03,2015-02-03,Navient,Closed with explanation,Yes,
+11150,1233348,Credit reporting,,Incorrect information on credit report,Account status,CA,90731.0,2015-02-10,2015-02-23,TransUnion,Closed with explanation,Yes,
+7294,1246403,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,FL,32311.0,2015-02-19,2015-02-19,"Escallate, LLC",Closed,Yes,
+733,1275351,Debt collection,"Other (phone, health club, etc.)",Taking/threatening an illegal action,Threatened arrest/jail if do not pay,SC,29501.0,2015-03-10,2015-03-10,"Augusta Collection Agency, Inc.",Closed with explanation,Yes,Yes
+11388,1233543,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,TX,75886.0,2015-02-10,2015-03-04,Equifax,Closed with non-monetary relief,Yes,
+12382,1229977,Credit card,,Billing disputes,,NJ,7022.0,2015-02-07,2015-02-09,"Pressler & Pressler, LLP",Closed with explanation,Yes,
+26398,1182503,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,IL,60091.0,2015-01-06,2015-01-09,Wells Fargo,Closed with explanation,Yes,
+10297,1237569,Debt collection,Medical,Disclosure verification of debt,Right to dispute notice not received,GA,30088.0,2015-02-12,2015-02-12,Tenet HealthCare Corporation,In progress,Yes,
+13294,1225951,Credit card,,Unsolicited issuance of credit card,,PA,15963.0,2015-02-05,2015-02-05,JPMorgan Chase,Closed with explanation,Yes,
+10282,1239176,Credit reporting,,Incorrect information on credit report,Account status,NV,89113.0,2015-02-12,2015-02-23,TransUnion,Closed with non-monetary relief,Yes,
+15446,1219642,Debt collection,Medical,Disclosure verification of debt,Right to dispute notice not received,OK,73112.0,2015-02-01,2015-02-05,"AMCOL Systems, Inc.",Closed with explanation,Yes,
+10620,1237326,Consumer loan,Vehicle loan,Problems when you are unable to pay,,MA,2562.0,2015-02-11,2015-02-12,JPMorgan Chase,Closed with explanation,Yes,Yes
+18794,1208104,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,FL,34668.0,2015-01-24,2015-01-24,"Collection Information Bureau, Inc.",Closed with explanation,Yes,Yes
+6977,1249963,Student loan,Non-federal student loan,Dealing with my lender or servicer,,CA,95630.0,2015-02-20,2015-03-13,United Student Aid (USA) Funds,In progress,Yes,
+8542,1242322,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Right to dispute notice not received,FL,33511.0,2015-02-17,2015-02-23,"I.C. System, Inc.",Closed with explanation,Yes,
+13497,1226424,Debt collection,Credit card,Communication tactics,Called after sent written cease of comm,KY,42303.0,2015-02-05,2015-02-10,Citibank,Closed with non-monetary relief,Yes,
+21302,1200125,Debt collection,Federal student loan,Cont'd attempts collect debt not owed,Debt is not mine,KS,67037.0,2015-01-20,2015-01-20,GC Services Limited Partnership,Closed with non-monetary relief,Yes,
+21320,1200218,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,MD,21227.0,2015-01-20,2015-01-20,Selene Finance,Closed with explanation,Yes,
+3023,1264033,Bank account or service,Checking account,Deposits and withdrawals,,NJ,8012.0,2015-03-02,2015-03-02,RBS Citizens,Closed with monetary relief,Yes,
+19214,1206035,Credit card,,Identity theft / Fraud / Embezzlement,,FL,33312.0,2015-01-23,2015-01-23,Discover,Closed with non-monetary relief,Yes,
+19364,1206642,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,TX,76116.0,2015-01-23,2015-02-11,Experian,In progress,Yes,
+21783,1197836,Credit reporting,,Incorrect information on credit report,Account terms,TX,75216.0,2015-01-17,2015-01-22,Experian,Closed with explanation,Yes,Yes
+19922,1205875,Credit card,,Identity theft / Fraud / Embezzlement,,MO,64840.0,2015-01-22,2015-01-23,Capital One,Closed with explanation,Yes,
+26203,1184030,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Threatened to take legal action,GA,31905.0,2015-01-07,2015-01-07,Springleaf Finance Corporation,Closed with explanation,Yes,
+17920,1211255,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,FL,34997.0,2015-01-27,2015-01-27,Carrington Mortgage,Closed with explanation,Yes,
+17398,1211834,Money transfers,Domestic (US) money transfer,Fraud or scam,,TX,77063.0,2015-01-27,2015-01-27,Western Union,Closed with explanation,Yes,
+15510,1219681,Credit card,,Billing disputes,,SC,29909.0,2015-02-01,2015-02-06,Bank of America,Closed with explanation,Yes,
+21059,1201275,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,WA,98387.0,2015-01-20,2015-01-26,Receivables Performance Management LLC,Closed with explanation,Yes,
+20275,1203624,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,CA,93536.0,2015-01-21,2015-01-26,"Bayview Loan Servicing, LLC",Closed with explanation,Yes,Yes
+21599,1198576,Credit reporting,,Incorrect information on credit report,Public record,CA,95453.0,2015-01-19,2015-01-19,TransUnion,Closed with explanation,Yes,
+10834,1235619,Credit card,,Closing/Cancelling account,,OH,44240.0,2015-02-11,2015-02-11,Discover,Closed with explanation,Yes,
+12740,1228679,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,CA,94804.0,2015-02-06,2015-02-13,Renton Collections Inc.,Closed with explanation,Yes,
+27315,1180103,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,SC,29506.0,2015-01-04,2015-01-05,Ocwen,Closed with explanation,Yes,No
+9331,1240887,Credit reporting,,Incorrect information on credit report,Account status,GA,30519.0,2015-02-14,2015-02-21,Equifax,In progress,Yes,
+14459,1222671,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,PA,15089.0,2015-02-03,2015-02-24,Equifax,Closed with explanation,Yes,Yes
+5729,1253542,Consumer loan,Vehicle loan,Managing the loan or lease,,MD,21234.0,2015-02-23,2015-02-24,Ally Financial Inc.,Closed with explanation,Yes,
+17491,1211280,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Frequent or repeated calls,CA,91011.0,2015-01-27,2015-01-27,"CashCall, Inc.",Closed with explanation,Yes,
+15644,1219440,Consumer loan,Installment loan,Managing the loan or lease,,CA,95616.0,2015-01-31,2015-02-03,Wells Fargo,Closed with monetary relief,Yes,
+19228,1206508,Credit reporting,,Incorrect information on credit report,Account status,TX,76116.0,2015-01-23,2015-02-11,TransUnion,Closed with explanation,Yes,
+3580,1260508,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,FL,32725.0,2015-02-27,2015-02-27,Citibank,Closed with explanation,Yes,
+6522,1249399,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,FL,33169.0,2015-02-20,2015-02-20,Citibank,In progress,Yes,
+11983,1231605,Debt collection,,Disclosure verification of debt,Not given enough info to verify debt,PA,19151.0,2015-02-09,2015-02-12,Bank of America,Closed with explanation,Yes,Yes
+18315,1209971,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,CA,92234.0,2015-01-26,2015-01-26,Experian,Closed with explanation,Yes,
+4859,1257865,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,86403.0,2015-02-25,2015-03-03,"RevSolve, Inc.",Untimely response,No,
+17474,1211686,Credit card,,Unsolicited issuance of credit card,,NC,28147.0,2015-01-27,2015-01-27,JPMorgan Chase,Closed with explanation,Yes,
+20679,1202729,Credit reporting,,Incorrect information on credit report,Account terms,IN,47905.0,2015-01-21,2015-01-28,Experian,Closed with explanation,Yes,
+18838,1207728,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,NC,28215.0,2015-01-24,2015-01-29,Experian,Closed with explanation,Yes,
+13061,1227069,Debt collection,Non-federal student loan,False statements or representation,Attempted to collect wrong amount,MI,48203.0,2015-02-05,2015-02-09,Navient,Closed with explanation,Yes,
+18008,1211159,Prepaid card,General purpose card,"Managing, opening, or closing account",,NJ,7079.0,2015-01-27,2015-02-02,Synovus Bank,Closed with non-monetary relief,Yes,
+13062,1226724,Credit reporting,,Incorrect information on credit report,Account status,GA,30214.0,2015-02-05,2015-02-19,Equifax,Closed with explanation,Yes,
+12295,1230546,Credit reporting,,Incorrect information on credit report,Account terms,NY,10454.0,2015-02-08,2015-02-13,Equifax,Closed with non-monetary relief,Yes,
+18377,1209939,Credit card,,Other fee,,CO,80031.0,2015-01-26,2015-01-26,JPMorgan Chase,Closed with explanation,Yes,
+14363,1222042,Debt collection,"Other (phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,TN,38343.0,2015-02-03,2015-02-06,"Diversified Consultants, Inc.",Closed with explanation,Yes,
+273,1282703,Credit reporting,,Incorrect information on credit report,Information is not mine,TX,75751.0,2015-03-13,2015-03-13,Equifax,Closed with explanation,Yes,
+15550,1219587,Mortgage,Home equity loan or line of credit,Settlement process and costs,,MA,2134.0,2015-02-01,2015-02-05,RBS Citizens,Closed with explanation,Yes,Yes
+15165,1220475,Bank account or service,Checking account,"Making/receiving payments, sending money",,,78669.0,2015-02-02,2015-02-05,JPMorgan Chase,Closed with explanation,Yes,
+9322,1240855,Consumer loan,Vehicle loan,Managing the loan or lease,,MD,20878.0,2015-02-14,2015-02-14,Ally Financial Inc.,In progress,Yes,
+21982,1197419,Mortgage,VA mortgage,"Loan servicing, payments, escrow account",,FL,32218.0,2015-01-16,2015-01-16,Wells Fargo,Closed with explanation,Yes,
+2408,1265531,Debt collection,Credit card,Improper contact or sharing of info,Contacted employer after asked not to,NJ,7087.0,2015-03-03,2015-03-03,"Portfolio Recovery Associates, Inc.",Closed with explanation,Yes,
+5174,1254065,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,MS,39046.0,2015-02-24,2015-03-02,Ditech Mortgage Corp,Closed with explanation,Yes,
+15404,1220752,Credit reporting,,Incorrect information on credit report,Information is not mine,WA,98033.0,2015-02-02,2015-02-02,Experian,Closed with explanation,Yes,
+21943,1197337,Mortgage,Home equity loan or line of credit,Settlement process and costs,,VA,23836.0,2015-01-16,2015-01-21,JPMorgan Chase,Closed with explanation,Yes,
+8374,1242060,Mortgage,Other mortgage,"Application, originator, mortgage broker",,NJ,8829.0,2015-02-17,2015-02-17,JPMorgan Chase,Closed with explanation,Yes,
+19082,1207224,Credit reporting,,Incorrect information on credit report,Account status,FL,32250.0,2015-01-23,2015-01-23,TransUnion,Closed with explanation,Yes,
+12840,1228749,Mortgage,Other mortgage,"Application, originator, mortgage broker",,NY,13204.0,2015-02-06,2015-02-20,"Paragon Home Loans, Inc",Closed with explanation,Yes,
+26121,1183645,Mortgage,FHA mortgage,"Application, originator, mortgage broker",,OH,44646.0,2015-01-07,2015-01-13,Wells Fargo,Closed with explanation,Yes,Yes
+27952,1179734,Money transfers,Domestic (US) money transfer,Money was not available when promised,,TN,38125.0,2015-01-02,2015-01-03,Bank of America,Closed with explanation,Yes,No
+18500,1210041,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,CA,90036.0,2015-01-26,2015-01-29,JPMorgan Chase,Closed with explanation,Yes,
+19044,1206412,Consumer loan,Personal line of credit,Account terms and changes,,FL,34744.0,2015-01-23,2015-01-27,Wells Fargo,Closed with explanation,Yes,
+2168,1267840,Mortgage,Conventional fixed mortgage,Settlement process and costs,,OH,44241.0,2015-03-04,2015-03-04,Ocwen,In progress,Yes,
+2383,1266088,Consumer loan,Vehicle loan,Problems when you are unable to pay,,,99001.0,2015-03-03,2015-03-03,Santander Consumer USA,Closed with explanation,Yes,
+11913,1231871,Mortgage,Home equity loan or line of credit,"Loan servicing, payments, escrow account",,GA,30114.0,2015-02-09,2015-02-09,Ocwen,Closed with explanation,Yes,
+18386,1211358,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,CA,94601.0,2015-01-26,2015-02-11,Rash Curtis and Associates,Closed with explanation,Yes,
+24565,1189808,Credit reporting,,Incorrect information on credit report,Personal information,NC,28540.0,2015-01-11,2015-01-12,TransUnion,Closed with non-monetary relief,Yes,No
+17556,1211620,Bank account or service,Checking account,Problems caused by my funds being low,,PA,18702.0,2015-01-27,2015-01-27,PNC Bank,In progress,Yes,
+12643,1230056,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Used obscene/profane/abusive language,AZ,85326.0,2015-02-06,2015-02-09,"EOS Holdings, Inc.",Closed with explanation,Yes,
+9811,1240081,Debt collection,Credit card,False statements or representation,Impersonated an attorney or official,AZ,85338.0,2015-02-13,2015-02-13,HSBC,Closed with explanation,Yes,
+13517,1228044,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,LA,71273.0,2015-02-05,2015-02-10,Global Credit & Collection Corporation,Closed with explanation,Yes,
+3470,1259837,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,CA,92025.0,2015-02-27,2015-02-27,Ocwen,In progress,Yes,
+12110,1230987,Credit card,,Advertising and marketing,,CA,94117.0,2015-02-09,2015-02-09,JPMorgan Chase,Closed with explanation,Yes,
+19384,1205434,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,MI,49738.0,2015-01-23,2015-02-02,AmeriFirst Home Mortgage,Closed with explanation,Yes,
+46,1288199,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,IA,51526.0,2015-03-17,2015-03-17,Synergetic Communication Inc,Closed with explanation,Yes,Yes
+24302,1189769,Payday loan,,Can't stop charges to bank account,,LA,70812.0,2015-01-12,2015-01-12,Direct Financial Solutions LLC,Closed with explanation,Yes,
+10018,1236931,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,NY,11215.0,2015-02-12,2015-02-12,"Dynamic Recovery Solutions, LLC",Closed with non-monetary relief,Yes,
+5934,1252155,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,PA,15627.0,2015-02-23,2015-03-02,Nationstar Mortgage,In progress,Yes,
+20464,1201543,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,ID,83861.0,2015-01-21,2015-01-21,Experian,Closed with non-monetary relief,Yes,
+27267,1181893,Debt collection,Medical,Improper contact or sharing of info,Contacted me after I asked not to,MT,59330.0,2015-01-05,2015-01-06,"Mountain Land Collections, Inc.",Closed with explanation,Yes,No
+1660,1269692,Debt collection,Payday loan,Communication tactics,Threatened to take legal action,MO,63042.0,2015-03-05,2015-03-05,"National Credit Adjusters, LLC",In progress,Yes,
+7431,1248412,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,NY,12603.0,2015-02-19,2015-02-19,"Designed Receivable Solultions, Inc.",Closed with explanation,Yes,
+10899,1234873,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,FL,33173.0,2015-02-11,2015-02-12,PNC Bank,In progress,Yes,
+21051,1201261,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Frequent or repeated calls,MA,2760.0,2015-01-20,2015-01-21,"Southwest Credit Systems, L.P.",Closed,Yes,
+11765,1232681,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,CA,92154.0,2015-02-09,2015-02-12,Navient,Closed with explanation,Yes,
+22563,1195570,Debt collection,Federal student loan,Communication tactics,Called after sent written cease of comm,IN,46017.0,2015-01-15,2015-02-06,"ECMC Group, Inc.",Closed with explanation,Yes,
+11222,1232896,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,CA,91710.0,2015-02-10,2015-02-10,Nationstar Mortgage,Closed with explanation,Yes,
+6,1288848,Consumer loan,Installment loan,Managing the loan or lease,,OH,44241.0,2015-03-18,2015-03-18,"CashCall, Inc.",Closed with explanation,Yes,Yes
+7799,1244006,Credit card,,Closing/Cancelling account,,MD,21029.0,2015-02-18,2015-02-18,Discover,Closed with explanation,Yes,Yes
+4413,1257745,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,OR,97202.0,2015-02-25,2015-03-03,Wells Fargo,In progress,Yes,
+9635,1240902,Credit card,,Billing disputes,,NC,28472.0,2015-02-13,2015-02-20,BB&T Financial,Closed with explanation,Yes,
+12320,1230231,Credit reporting,,Incorrect information on credit report,Information is not mine,NY,10128.0,2015-02-07,2015-02-07,Experian,In progress,Yes,
+22093,1197960,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,OR,97402.0,2015-01-16,2015-01-17,"Aargon Agency, Inc.",Closed,Yes,Yes
+21210,1199703,Credit reporting,,Incorrect information on credit report,Account status,TX,78723.0,2015-01-20,2015-02-04,Experian,Closed with non-monetary relief,Yes,
+14528,1222324,Credit reporting,,Incorrect information on credit report,Personal information,CA,91344.0,2015-02-03,2015-02-03,TransUnion,Closed with explanation,Yes,
+28042,1177937,Credit card,,Billing disputes,,FL,33809.0,2015-01-01,2015-01-01,Capital One,Closed with monetary relief,Yes,
+11701,1233191,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,TX,21440.0,2015-02-09,2015-02-18,Ocwen,Closed with explanation,Yes,
+16496,1216465,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,LA,70785.0,2015-01-29,2015-01-29,"Green Tree Servicing, LLC",Closed with non-monetary relief,Yes,Yes
+22247,1196823,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,OR,97459.0,2015-01-16,2015-01-21,U.S. Bancorp,Closed with explanation,Yes,
+21025,1201190,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,CA,90025.0,2015-01-20,2015-01-21,Experian,Closed with explanation,Yes,
+10870,1235808,Bank account or service,Checking account,Deposits and withdrawals,,PA,18302.0,2015-02-11,2015-02-18,PNC Bank,In progress,Yes,
+10765,1234839,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,MI,48088.0,2015-02-11,2015-02-11,Stonegate Mortgage Corporation,Closed with explanation,Yes,Yes
+24435,1192034,Bank account or service,Checking account,"Account opening, closing, or management",,FL,33311.0,2015-01-12,2015-01-13,Bank of America,Closed with explanation,Yes,Yes
+13542,1225837,Credit card,,Delinquent account,,TX,78704.0,2015-02-05,2015-02-05,Amex,Closed with explanation,Yes,
+25104,1188269,Prepaid card,Gift or merchant card,Fees,,VA,23185.0,2015-01-09,2015-01-14,Citibank,Closed with explanation,Yes,
+7047,1248588,Consumer loan,Vehicle loan,Problems when you are unable to pay,,CA,95826.0,2015-02-19,2015-02-20,Wells Fargo,Closed with explanation,Yes,
+19378,1206491,Bank account or service,Checking account,Deposits and withdrawals,,OR,97760.0,2015-01-23,2015-01-27,Wells Fargo,Closed with explanation,Yes,
+14362,1222679,Credit reporting,,Incorrect information on credit report,Account status,MI,48188.0,2015-02-03,2015-02-03,Experian,Closed with non-monetary relief,Yes,
+24778,1188835,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,PA,17847.0,2015-01-09,2015-01-09,Wells Fargo,Closed with monetary relief,Yes,
+28146,1178169,Credit reporting,,Incorrect information on credit report,Information is not mine,WA,98908.0,2015-01-01,2015-01-07,Experian,Closed with explanation,Yes,
+17539,1211294,Debt collection,Payday loan,Cont'd attempts collect debt not owed,Debt is not mine,FL,32222.0,2015-01-27,2015-01-27,"Dynamic Recovery Solutions, LLC",Closed with non-monetary relief,Yes,Yes
+13610,1227123,Debt collection,Credit card,Improper contact or sharing of info,Talked to a third party about my debt,PA,15146.0,2015-02-05,2015-02-05,Citibank,Closed with explanation,Yes,
+5598,1251870,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,MD,21701.0,2015-02-23,2015-02-23,"Green Tree Servicing, LLC",Closed with explanation,Yes,Yes
+28144,1178170,Credit card,,Delinquent account,,WA,98277.0,2015-01-01,2015-01-02,JPMorgan Chase,Closed with explanation,Yes,No
+7949,1244574,Mortgage,Conventional fixed mortgage,Settlement process and costs,,NY,11756.0,2015-02-18,2015-02-18,Seterus,Closed with explanation,Yes,
+8377,1242529,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,CO,80123.0,2015-02-17,2015-02-17,"First National Collection Bureau, Inc.",Closed with explanation,Yes,
+15174,1220667,Credit card,,Credit line increase/decrease,,MI,48312.0,2015-02-02,2015-02-02,Amex,Closed with explanation,Yes,
+21987,1197415,Prepaid card,Mobile wallet,"Managing, opening, or closing account",,FL,32712.0,2015-01-16,2015-01-21,Google Inc.,Closed with explanation,Yes,
+19731,1203909,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,VA,22302.0,2015-01-22,2015-01-27,Ocwen,Closed with explanation,Yes,
+14223,1223821,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,NH,3077.0,2015-02-04,2015-02-04,Experian,Closed with non-monetary relief,Yes,
+10901,1234823,Mortgage,VA mortgage,"Loan modification,collection,foreclosure",,NJ,8015.0,2015-02-11,2015-02-11,Nationstar Mortgage,Closed with explanation,Yes,Yes
+25675,1185075,Bank account or service,Checking account,"Making/receiving payments, sending money",,CA,91350.0,2015-01-07,2015-01-13,Bank of America,Closed with monetary relief,Yes,
+5727,1253210,Credit card,,Credit line increase/decrease,,MA,1960.0,2015-02-23,2015-02-23,Citibank,Closed with explanation,Yes,
+18967,1206770,Credit reporting,,Incorrect information on credit report,Account status,TX,76116.0,2015-01-23,2015-02-11,Experian,In progress,Yes,
+26428,1182643,Bank account or service,Checking account,"Account opening, closing, or management",,FL,33743.0,2015-01-06,2015-01-26,Wells Fargo,Closed with explanation,Yes,
+4125,1258561,Debt collection,Credit card,Communication tactics,Threatened to take legal action,CA,90732.0,2015-02-26,2015-02-26,Cohen & Associates,Untimely response,No,
+20155,1204891,Bank account or service,Checking account,Deposits and withdrawals,,TX,78247.0,2015-01-22,2015-01-22,USAA Savings,Closed with explanation,Yes,
+4569,1256705,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,TX,78750.0,2015-02-25,2015-02-25,"First National Collection Bureau, Inc.",Closed with explanation,Yes,
+21877,1198117,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,FL,33511.0,2015-01-17,2015-01-17,Citibank,Closed with explanation,Yes,
+10608,1235460,Payday loan,,Can't contact lender,,GA,30000.0,2015-02-11,2015-02-18,World Acceptance Corporation,Closed with explanation,Yes,
+1569,1270637,Credit reporting,,Incorrect information on credit report,Account status,CA,92530.0,2015-03-05,2015-03-06,Equifax,Closed with explanation,Yes,Yes
+23818,1194070,Debt collection,Mortgage,False statements or representation,Attempted to collect wrong amount,,47374.0,2015-01-13,2015-01-15,Specialized Loan Servicing LLC,Closed with explanation,Yes,Yes
+4273,1258990,Credit card,,Identity theft / Fraud / Embezzlement,,NY,10021.0,2015-02-26,2015-02-26,GE Capital Retail,Closed with non-monetary relief,Yes,
+1555,1270499,Credit reporting,,Incorrect information on credit report,Information is not mine,NJ,7652.0,2015-03-05,2015-03-05,Equifax,In progress,Yes,
+10920,1238532,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,NV,89123.0,2015-02-11,2015-02-19,21st Mortgage Corporation,Closed with explanation,Yes,
+4689,1257156,Credit reporting,,Incorrect information on credit report,Information is not mine,NC,28210.0,2015-02-25,2015-02-25,Experian,Closed with non-monetary relief,Yes,
+13079,1227144,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,MI,65801.0,2015-02-05,2015-03-03,Equifax,Closed with non-monetary relief,Yes,
+3451,1261920,Debt collection,Payday loan,Taking/threatening an illegal action,Threatened arrest/jail if do not pay,TX,75252.0,2015-02-28,2015-03-09,National Arbitration Forum,Closed with explanation,Yes,Yes
+866,1274447,Credit reporting,,Credit monitoring or identity protection,Account terms and changes,OH,43004.0,2015-03-09,2015-03-09,Experian,Closed with explanation,Yes,Yes
+14034,1226234,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",,ME,4070.0,2015-02-04,2015-02-09,Google Inc.,Closed with explanation,Yes,Yes
+17465,1211326,Credit reporting,,Incorrect information on credit report,Account status,MA,1890.0,2015-01-27,2015-01-30,Equifax,Closed with explanation,Yes,
+15564,1219532,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,FL,33334.0,2015-01-31,2015-02-04,"National Credit Adjusters, LLC",Closed with explanation,Yes,
+26516,1183035,Credit card,,Credit line increase/decrease,,WI,53095.0,2015-01-06,2015-01-06,Citibank,Closed with explanation,Yes,
+21196,1199742,Debt collection,,Communication tactics,Frequent or repeated calls,GA,30377.0,2015-01-20,2015-01-20,Select Resource Group LLC,Closed with non-monetary relief,Yes,
+11257,1234253,Credit card,,Billing disputes,,NC,27896.0,2015-02-10,2015-02-18,GE Capital Retail,Closed with explanation,Yes,
+19464,1207192,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,CA,93012.0,2015-01-23,2015-01-28,HSBC,Closed with explanation,Yes,
+20785,1202362,Bank account or service,Savings account,"Account opening, closing, or management",,FL,32803.0,2015-01-21,2015-01-26,Bank of America,Closed with explanation,Yes,
+8477,1243069,Student loan,Non-federal student loan,Dealing with my lender or servicer,,MO,63118.0,2015-02-17,2015-02-24,Wells Fargo,Closed with explanation,Yes,
+22109,1197975,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,HI,96705.0,2015-01-16,2015-01-17,"Select Portfolio Servicing, Inc",Closed with explanation,Yes,
+23658,1191588,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,FL,33598.0,2015-01-13,2015-01-21,Navient,Closed with explanation,Yes,
+10090,1236978,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,FL,33173.0,2015-02-12,2015-02-12,Seterus,In progress,Yes,
+20540,1202551,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,NY,11230.0,2015-01-21,2015-01-29,Citibank,Closed with non-monetary relief,Yes,
+13188,1226299,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,AL,35903.0,2015-02-05,2015-02-05,Bank of America,In progress,Yes,
+14107,1224515,Debt collection,Credit card,Communication tactics,Threatened to take legal action,CA,91739.0,2015-02-04,2015-02-10,"Account Discovery Systems, LLC",Closed with explanation,Yes,
+27566,1179815,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,CA,92071.0,2015-01-03,2015-01-04,PHH Mortgage,Closed with explanation,Yes,
+14851,1221145,Credit card,,Identity theft / Fraud / Embezzlement,,WA,98021.0,2015-02-02,2015-02-02,Citibank,Closed with monetary relief,Yes,
+27454,1179579,Credit reporting,,Incorrect information on credit report,Public record,NJ,7869.0,2015-01-03,2015-01-03,TransUnion,Closed with explanation,Yes,No
+27719,1178941,Credit card,,Unsolicited issuance of credit card,,MA,1810.0,2015-01-02,2015-01-08,Barclays,Closed with monetary relief,Yes,No
+18702,1208960,Credit card,,Delinquent account,,OR,97527.0,2015-01-25,2015-01-25,Citibank,Closed with non-monetary relief,Yes,
+2724,1262810,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,IN,47167.0,2015-03-02,2015-03-02,Guaranteed Rate,Closed with explanation,Yes,
+18214,1209337,Credit reporting,,Incorrect information on credit report,Account status,UT,84107.0,2015-01-26,2015-01-26,Experian,Closed with explanation,Yes,
+2346,1265436,Credit card,,Advertising and marketing,,FL,33020.0,2015-03-03,2015-03-03,Capital One,In progress,Yes,
+5799,1251263,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,CA,92220.0,2015-02-23,2015-03-03,"CMRE Financial Services, Inc.",In progress,Yes,
+16852,1214916,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,CA,92626.0,2015-01-28,2015-01-28,Ocwen,Closed with explanation,Yes,Yes
+4371,1259804,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,LA,70818.0,2015-02-26,2015-02-26,Citibank,In progress,Yes,
+17578,1211854,Credit reporting,,Incorrect information on credit report,Information is not mine,TX,78254.0,2015-01-27,2015-01-27,Equifax,Closed with explanation,Yes,
+12344,1230226,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,IL,60606.0,2015-02-07,2015-02-07,Resurgent Capital Services L.P.,In progress,Yes,
+16085,1217778,Debt collection,Credit card,Communication tactics,Used obscene/profane/abusive language,AZ,85378.0,2015-01-30,2015-01-30,JPMorgan Chase,Closed with explanation,Yes,Yes
+5627,1251551,Credit card,,Cash advance,,OH,43023.0,2015-02-23,2015-02-27,JPMorgan Chase,Closed with explanation,Yes,
+14145,1225003,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,CA,92675.0,2015-02-04,2015-02-04,Wells Fargo,Closed with explanation,Yes,
+10865,1234925,Consumer loan,Vehicle loan,Shopping for a loan or lease,,KY,41048.0,2015-02-11,2015-02-11,Capital One,Closed with explanation,Yes,Yes
+26304,1182185,Consumer loan,Installment loan,Managing the loan or lease,,FL,33773.0,2015-01-06,2015-01-07,Bank of America,Closed with explanation,Yes,
+1444,1270845,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,ID,83655.0,2015-03-06,2015-03-06,TransUnion,In progress,Yes,
+10830,1236592,Mortgage,Other mortgage,Other,,VA,23323.0,2015-02-11,2015-02-18,Wells Fargo,In progress,Yes,
+428,1280069,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,FL,34473.0,2015-03-12,2015-03-12,"Choice Recovery, Inc.",Closed with explanation,Yes,
+4977,1257339,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,IN,46208.0,2015-02-25,2015-03-03,Ocwen,Closed with explanation,Yes,
+20873,1201009,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,CA,94534.0,2015-01-20,2015-01-20,Equifax,Closed with explanation,Yes,Yes
+11550,1231269,Debt collection,,Improper contact or sharing of info,Contacted employer after asked not to,KS,66214.0,2015-02-09,2015-02-09,ConServe,Closed with explanation,Yes,
+26218,1184111,Debt collection,,Disclosure verification of debt,Not given enough info to verify debt,TX,75033.0,2015-01-07,2015-01-12,Encore Capital Group,Closed with explanation,Yes,
+23095,1195464,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,IL,60175.0,2015-01-14,2015-01-15,Ocwen,Closed with explanation,Yes,
+21034,1201227,Bank account or service,Checking account,"Account opening, closing, or management",,NY,11561.0,2015-01-20,2015-01-23,Astoria Bank,Closed with explanation,Yes,
+843,1273930,Bank account or service,Checking account,Problems caused by my funds being low,,MD,21201.0,2015-03-09,2015-03-10,Bank of America,Closed with explanation,Yes,
+5306,1254549,Credit reporting,,Incorrect information on credit report,Account status,PA,19026.0,2015-02-24,2015-02-24,TransUnion,Closed with explanation,Yes,Yes
+16373,1216683,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,TX,75703.0,2015-01-29,2015-01-29,"Prosperity Bancshares, Inc",Closed with explanation,Yes,
+5138,1253945,Debt collection,Non-federal student loan,False statements or representation,Attempted to collect wrong amount,IA,52722.0,2015-02-24,2015-03-04,Transworld Systems Inc.,In progress,Yes,
+21255,1200441,Money transfers,Domestic (US) money transfer,Fraud or scam,,NY,12601.0,2015-01-20,2015-01-20,MoneyGram,Closed with explanation,Yes,
+10548,1236404,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,FL,33025.0,2015-02-11,2015-02-18,Citibank,Closed with explanation,Yes,
+4819,1257011,Debt collection,Credit card,Communication tactics,Threatened to take legal action,NJ,8010.0,2015-02-25,2015-02-25,"Dynia & Associates, LLC",Closed with explanation,Yes,
+19452,1207087,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,GA,30214.0,2015-01-23,2015-02-05,Ocwen,Closed with explanation,Yes,Yes
+13642,1225175,Consumer loan,Installment loan,Managing the loan or lease,,KY,40218.0,2015-02-04,2015-02-10,GE Capital Retail,Closed with explanation,Yes,Yes
+11028,1233813,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,VA,23453.0,2015-02-10,2015-02-13,Ocwen,In progress,Yes,
+21678,1198304,Debt collection,Credit card,Improper contact or sharing of info,Contacted me after I asked not to,FL,34759.0,2015-01-18,2015-01-18,"Portfolio Recovery Associates, Inc.",Closed with non-monetary relief,Yes,
+22642,1195161,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,CA,92563.0,2015-01-15,2015-01-20,"CL Holdings, LLC",Closed with explanation,Yes,
+17865,1212130,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,HI,96753.0,2015-01-27,2015-01-30,Ocwen,Closed with explanation,Yes,
+23608,1191507,Bank account or service,Checking account,Using a debit or ATM card,,TX,75025.0,2015-01-13,2015-01-14,BBVA Compass,Closed with explanation,Yes,Yes
+22732,1193885,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,IL,60609.0,2015-01-15,2015-01-20,Bank of America,Closed with explanation,Yes,
+14096,1224482,Student loan,Non-federal student loan,Can't repay my loan,,NC,28214.0,2015-02-04,2015-02-09,Navient,Closed with explanation,Yes,
+7304,1246451,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,TX,77082.0,2015-02-19,2015-02-19,"Enhanced Acquisitions, LLC",Closed with explanation,Yes,Yes
+19168,1207745,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,GA,30354.0,2015-01-23,2015-01-28,Bank of America,Closed with explanation,Yes,
+18473,1211366,Credit card,,APR or interest rate,,TX,77002.0,2015-01-26,2015-01-27,Citibank,Closed with explanation,Yes,Yes
+20915,1198953,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,IN,46032.0,2015-01-20,2015-01-20,Citibank,Closed with explanation,Yes,Yes
+12244,1230375,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Threatened to take legal action,IN,46637.0,2015-02-08,2015-02-08,Minnesota Life Insurance Company,Closed with explanation,Yes,Yes
+14315,1223832,Credit reporting,,Incorrect information on credit report,Information is not mine,FL,32092.0,2015-02-03,2015-02-04,Equifax,Closed with explanation,Yes,
+3222,1262355,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,28697.0,2015-03-01,2015-03-01,Experian,Closed with non-monetary relief,Yes,
+3673,1261666,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,TX,77407.0,2015-02-27,2015-02-27,Equifax,Closed with non-monetary relief,Yes,
+28121,1178160,Prepaid card,ID prepaid card,Unauthorized transactions/trans. issues,,RI,2920.0,2015-01-01,2015-01-02,Amex,Closed with monetary relief,Yes,No
+10398,1235567,Credit reporting,,Incorrect information on credit report,Account status,TX,78023.0,2015-02-11,2015-03-09,Experian,Closed with explanation,Yes,
+6455,1250940,Credit card,,Billing statement,,CA,92163.0,2015-02-21,2015-02-21,Amex,Closed with explanation,Yes,
+5216,1255076,Bank account or service,Checking account,Problems caused by my funds being low,,IL,60560.0,2015-02-24,2015-02-24,Fifth Third Bank,Closed with monetary relief,Yes,
+24266,1195555,Consumer loan,Vehicle lease,Problems when you are unable to pay,,TX,75052.0,2015-01-12,2015-01-21,"Prestige Financial Services, Inc.",Closed with explanation,Yes,
+10581,1236482,Bank account or service,Checking account,"Account opening, closing, or management",,FL,33511.0,2015-02-11,2015-02-18,SunTrust Bank,In progress,Yes,
+25832,1185162,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,VA,22206.0,2015-01-07,2015-01-07,West Corporation,Closed with explanation,Yes,
+21237,1199878,Student loan,Non-federal student loan,Can't repay my loan,,GA,30311.0,2015-01-20,2015-01-20,Navient,Closed with explanation,Yes,
+5910,1253496,Mortgage,FHA mortgage,Credit decision / Underwriting,,CA,91766.0,2015-02-23,2015-02-24,Bank of America,Closed with explanation,Yes,
+5391,1254311,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt resulted from identity theft,FL,33415.0,2015-02-24,2015-02-24,CAC Financial Corp,Closed with non-monetary relief,Yes,
+7241,1246470,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,KY,40107.0,2015-02-19,2015-03-09,Equifax,Closed with non-monetary relief,Yes,
+7104,1247094,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,IA,52402.0,2015-02-19,2015-02-25,24 Asset Management Corp,Closed,Yes,
+14032,1226173,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,NV,89115.0,2015-02-04,2015-02-05,Clark County Collection Service,Closed with explanation,Yes,
+21752,1198478,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,CA,92844.0,2015-01-18,2015-01-19,"Green Tree Servicing, LLC",Closed with explanation,Yes,
+16421,1217150,Credit reporting,,Incorrect information on credit report,Personal information,IA,50401.0,2015-01-29,2015-01-29,Equifax,Closed with explanation,Yes,
+11729,1232935,Bank account or service,Checking account,"Account opening, closing, or management",,FL,32817.0,2015-02-09,2015-02-10,Bank of America,Closed with explanation,Yes,
+19234,1205733,Credit reporting,,Incorrect information on credit report,Account status,CA,91766.0,2015-01-23,2015-01-28,Equifax,Closed with explanation,Yes,
+17610,1211846,Credit reporting,,Incorrect information on credit report,Information is not mine,FL,32829.0,2015-01-27,2015-01-30,TransUnion,Closed with non-monetary relief,Yes,
+3077,1262693,Mortgage,Other mortgage,Other,,TX,75094.0,2015-03-02,2015-03-09,Nationstar Mortgage,Closed with explanation,Yes,
+17088,1215111,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was discharged in bankruptcy,CA,94610.0,2015-01-28,2015-02-02,Citibank,Closed with monetary relief,Yes,
+6418,1250833,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,MI,48188.0,2015-02-21,2015-03-09,Transworld Systems Inc.,Closed with explanation,Yes,Yes
+26754,1181942,Mortgage,Home equity loan or line of credit,"Loan modification,collection,foreclosure",,CA,90210.0,2015-01-05,2015-01-06,State Farm Bank,Closed with explanation,Yes,
+7330,1248334,Credit reporting,,Incorrect information on credit report,Personal information,TN,38133.0,2015-02-19,2015-02-19,"Kroll, Inc",Closed with explanation,Yes,
+2157,1267006,Consumer loan,Vehicle loan,Managing the loan or lease,,NC,28390.0,2015-03-04,2015-03-10,Ally Financial Inc.,In progress,Yes,
+26268,1182046,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,FL,33157.0,2015-01-06,2015-01-09,Bank of America,Closed with explanation,Yes,
+24663,1189343,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,KY,41051.0,2015-01-10,2015-01-10,Nationstar Mortgage,Closed with explanation,Yes,
+23672,1203361,Debt collection,Credit card,Communication tactics,Called after sent written cease of comm,OH,44706.0,2015-01-13,2015-01-13,GE Capital Retail,Closed with non-monetary relief,Yes,
+22225,1196721,Credit reporting,,Incorrect information on credit report,Account status,CA,90266.0,2015-01-16,2015-01-16,TransUnion,Closed with explanation,Yes,
+20860,1200680,Credit reporting,,Incorrect information on credit report,Account terms,IL,60649.0,2015-01-20,2015-03-04,Experian,Closed with non-monetary relief,Yes,Yes
+16706,1215539,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,PA,19148.0,2015-01-29,2015-01-29,Wells Fargo,Closed with explanation,Yes,
+16746,1214992,Credit reporting,,Incorrect information on credit report,Information is not mine,NY,11795.0,2015-01-28,2015-01-28,Experian,Closed with explanation,Yes,
+12140,1232045,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,NY,10547.0,2015-02-09,2015-02-09,JPMorgan Chase,Closed with explanation,Yes,
+24891,1189153,Bank account or service,Checking account,"Making/receiving payments, sending money",,CA,93103.0,2015-01-09,2015-01-09,Rabobank,Closed with explanation,Yes,Yes
+14316,1221628,Credit card,,Billing disputes,,VA,22192.0,2015-02-03,2015-02-03,Citibank,Closed with monetary relief,Yes,
+6399,1250798,Student loan,Non-federal student loan,Can't repay my loan,,MO,63010.0,2015-02-21,2015-02-21,AES/PHEAA,Closed with explanation,Yes,
+5712,1254985,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,MO,63366.0,2015-02-23,2015-02-24,U.S. Bancorp,Closed with non-monetary relief,Yes,
+22290,1196998,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,IL,60136.0,2015-01-16,2015-01-16,Seterus,Closed with explanation,Yes,Yes
+1337,1290263,Credit card,,Delinquent account,,AZ,85295.0,2015-03-06,2015-03-06,Wells Fargo,Closed with explanation,Yes,
+6529,1249815,Payday loan,,Received a loan I didn't apply for,,FL,32825.0,2015-02-20,2015-02-27,Critical Resolution Mediation LLC,Closed,Yes,
+9684,1239124,Credit reporting,,Incorrect information on credit report,Account terms,CA,95210.0,2015-02-13,2015-03-06,Experian,Closed with non-monetary relief,Yes,
+13198,1226302,Bank account or service,Checking account,,,FL,33487.0,2015-02-05,2015-02-05,JPMorgan Chase,Closed with monetary relief,Yes,
+3108,1262715,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,FL,33027.0,2015-03-02,2015-03-02,"Green Tree Servicing, LLC",Closed with explanation,Yes,Yes
+12322,1230201,Credit reporting,,Incorrect information on credit report,Account status,TX,75702.0,2015-02-07,2015-02-12,Experian,Closed with explanation,Yes,
+1103,1272864,Credit card,,Credit card protection / Debt protection,,FL,33486.0,2015-03-08,2015-03-09,JPMorgan Chase,Closed with explanation,Yes,
+25224,1186519,Credit reporting,,Incorrect information on credit report,Account status,AL,36582.0,2015-01-08,2015-01-08,Equifax,Closed with explanation,Yes,
+26970,1180805,Credit reporting,,Incorrect information on credit report,Personal information,GA,30305.0,2015-01-05,2015-01-09,Experian,Closed with non-monetary relief,Yes,No
+3197,1263973,Mortgage,FHA mortgage,"Application, originator, mortgage broker",,IL,60402.0,2015-03-01,2015-03-02,Bank of America,In progress,Yes,
+1427,1271852,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,SC,29577.0,2015-03-06,2015-03-06,"Pinnacle Recovery, Inc.",Closed with explanation,Yes,
+23738,1193877,Debt collection,"Other (phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,NY,11372.0,2015-01-13,2015-01-13,Santander Bank US,Closed,Yes,Yes
+17672,1211177,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,90034.0,2015-01-27,2015-01-27,Experian,Closed with non-monetary relief,Yes,
+21789,1197970,Credit reporting,,Incorrect information on credit report,Public record,WA,98270.0,2015-01-17,2015-01-17,Experian,Closed with non-monetary relief,Yes,
+17742,1212103,Credit reporting,,Incorrect information on credit report,Account status,NY,11232.0,2015-01-27,2015-02-03,TransUnion,In progress,Yes,
+10373,1236370,Credit reporting,,Incorrect information on credit report,Account status,MD,20785.0,2015-02-11,2015-02-11,TransUnion,Closed with non-monetary relief,Yes,
+21590,1198561,Consumer loan,Installment loan,Shopping for a loan or lease,,NC,28209.0,2015-01-19,2015-01-22,GE Capital Retail,Closed with non-monetary relief,Yes,Yes
+21269,1200014,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,NC,28387.0,2015-01-20,2015-01-20,Ocwen,Closed with explanation,Yes,
+22187,1196549,Debt collection,,Communication tactics,Frequent or repeated calls,TX,76117.0,2015-01-16,2015-01-22,Encore Capital Group,Closed with non-monetary relief,Yes,
+7793,1245876,Mortgage,VA mortgage,"Loan modification,collection,foreclosure",,CA,92886.0,2015-02-18,2015-02-24,Ocwen,Closed with explanation,Yes,Yes
+22020,1197517,Debt collection,"Other (phone, health club, etc.)",Taking/threatening an illegal action,Threatened arrest/jail if do not pay,TX,77056.0,2015-01-16,2015-01-23,M&S Recovery Solutions,Closed with explanation,Yes,
+3286,1262189,Credit card,,Closing/Cancelling account,,FL,32607.0,2015-03-01,2015-03-01,Discover,Closed with explanation,Yes,
+3058,1266183,Consumer loan,Vehicle loan,Taking out the loan or lease,,CA,95112.0,2015-03-02,2015-03-03,Navy FCU,In progress,Yes,
+22843,1194344,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,CA,94583.0,2015-01-15,2015-01-15,Bank of America,Closed with explanation,Yes,
+3753,1260055,Bank account or service,Checking account,Deposits and withdrawals,,NV,89149.0,2015-02-27,2015-02-27,Citibank,Closed with explanation,Yes,
+2851,1263242,Bank account or service,Other bank product/service,"Account opening, closing, or management",,CA,92203.0,2015-03-02,2015-03-04,U.S. Bancorp,Closed with explanation,Yes,
+6427,1250852,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,IL,60473.0,2015-02-21,2015-02-27,Encore Capital Group,In progress,Yes,
+3402,1261795,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,CA,92663.0,2015-02-28,2015-02-28,Ad Astra Recovery Services Inc,Closed with explanation,Yes,
+4950,1257211,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,FL,33624.0,2015-02-25,2015-03-03,"Equidata, Inc.",Untimely response,No,
+20414,1201162,Credit reporting,,Incorrect information on credit report,Account status,TX,78130.0,2015-01-21,2015-02-04,TransUnion,Closed with explanation,Yes,
+6750,1248577,Credit reporting,,Incorrect information on credit report,Information is not mine,CA,92021.0,2015-02-20,2015-02-26,Experian,In progress,Yes,
+14967,1219910,Credit reporting,,Incorrect information on credit report,Account terms,CA,91604.0,2015-02-02,2015-02-02,TransUnion,Closed with explanation,Yes,Yes
+24026,1190483,Bank account or service,Checking account,Using a debit or ATM card,,GA,30341.0,2015-01-12,2015-01-12,Wells Fargo,Closed with explanation,Yes,
+7672,1245002,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,TX,77521.0,2015-02-18,2015-02-18,Ocwen,Closed with explanation,Yes,
+16556,1217529,Credit reporting,,Incorrect information on credit report,Information is not mine,CA,92507.0,2015-01-29,2015-01-30,Equifax,Closed with explanation,Yes,
+15824,1218682,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,MA,1902.0,2015-01-30,2015-01-30,"Green Tree Servicing, LLC",Closed with explanation,Yes,
+7885,1244194,Payday loan,,Charged fees or interest I didn't expect,,WA,98683.0,2015-02-18,2015-02-23,Red Rock Tribal Lending,Closed with explanation,Yes,
+10859,1235661,Student loan,Non-federal student loan,Dealing with my lender or servicer,,GA,30046.0,2015-02-11,2015-02-11,Navient,In progress,Yes,
+3697,1260762,Debt collection,Non-federal student loan,Cont'd attempts collect debt not owed,Debt is not mine,CO,80534.0,2015-02-27,2015-02-27,"Dynamic Recovery Solutions, LLC",Closed with non-monetary relief,No,
+24473,1189555,Debt collection,,Disclosure verification of debt,Not given enough info to verify debt,WA,98110.0,2015-01-11,2015-01-11,Penn Credit Corporation,Closed with explanation,Yes,No
+26316,1182278,Credit reporting,,Incorrect information on credit report,Information is not mine,CA,92585.0,2015-01-06,2015-02-09,Experian,Closed with explanation,Yes,
+8528,1242436,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,KS,66086.0,2015-02-17,2015-02-23,Consumer Collection Management. Inc,Closed with explanation,No,
+14007,1224360,Payday loan,,Can't contact lender,,MO,63944.0,2015-02-04,2015-02-04,"Check into Cash, Inc.",Closed with monetary relief,Yes,
+21017,1199269,Credit card,,Balance transfer,,TX,75252.0,2015-01-20,2015-01-21,Amex,Closed with non-monetary relief,Yes,
+17168,1213379,Credit reporting,,Incorrect information on credit report,Information is not mine,GA,30044.0,2015-01-28,2015-01-28,Equifax,Closed with explanation,Yes,
+20569,1201695,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,CO,80003.0,2015-01-21,2015-01-21,"Select Portfolio Servicing, Inc",Closed with explanation,Yes,Yes
+6377,1250604,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,CO,81623.0,2015-02-21,2015-02-21,Bank of America,In progress,Yes,
+20704,1202790,Credit reporting,,Incorrect information on credit report,Account terms,CA,92544.0,2015-01-21,2015-01-21,Equifax,Closed with non-monetary relief,Yes,
+25156,1188580,Debt collection,,Disclosure verification of debt,Not given enough info to verify debt,NH,3104.0,2015-01-09,2015-01-14,"Convergent Resources, Inc.",Closed with explanation,Yes,No
+8845,1241533,Credit reporting,,Incorrect information on credit report,Account status,OH,43615.0,2015-02-16,2015-02-16,Experian,In progress,Yes,
+8074,1245428,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,FL,32259.0,2015-02-18,2015-02-18,Transworld Systems Inc.,Closed with explanation,Yes,
+12354,1230253,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,CA,91701.0,2015-02-07,2015-02-07,"Select Portfolio Servicing, Inc",Closed with explanation,Yes,
+505,1278340,Credit reporting,,Incorrect information on credit report,Account terms,FL,33947.0,2015-03-11,2015-03-11,Experian,In progress,Yes,
+9607,1240837,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,OK,73135.0,2015-02-13,2015-02-14,"Enhanced Recovery Company, LLC",Closed with non-monetary relief,Yes,
+7582,1247891,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,PA,15301.0,2015-02-19,2015-03-04,Global Credit & Collection Corporation,Closed with explanation,Yes,
+15951,1217569,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,OH,44140.0,2015-01-30,2015-02-02,JPMorgan Chase,Closed with explanation,Yes,
+16844,1214680,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,GA,30022.0,2015-01-28,2015-01-28,"Convergent Resources, Inc.",Closed with explanation,Yes,
+21221,1199725,Bank account or service,Checking account,Problems caused by my funds being low,,PA,17522.0,2015-01-20,2015-01-21,Santander Bank US,Closed with monetary relief,Yes,
+20383,1202916,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,GA,30161.0,2015-01-21,2015-01-26,Selene Finance,Closed with explanation,Yes,Yes
+19066,1205703,Credit reporting,,Incorrect information on credit report,Information is not mine,PR,662.0,2015-01-23,2015-03-12,TransUnion,Closed with explanation,Yes,
+99,1284552,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,FL,32086.0,2015-03-16,2015-03-16,Transworld Systems Inc.,Closed with explanation,Yes,
+1668,1272063,Credit reporting,,Incorrect information on credit report,Account status,FL,34747.0,2015-03-05,2015-03-05,Equifax,In progress,Yes,
+1433,1270910,Student loan,Non-federal student loan,Can't repay my loan,,IN,46203.0,2015-03-06,2015-03-06,Navient,In progress,Yes,
+21798,1197993,Credit reporting,,Incorrect information on credit report,Account status,ID,83835.0,2015-01-17,2015-01-17,Experian,Closed with non-monetary relief,Yes,
+27120,1181262,Credit reporting,,Incorrect information on credit report,Account status,TX,77084.0,2015-01-05,2015-01-29,TransUnion,Closed with non-monetary relief,Yes,
+14802,1223797,Credit card,,APR or interest rate,,CA,94601.0,2015-02-03,2015-02-03,Wells Fargo,Closed with explanation,Yes,Yes
+15041,1219865,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,VA,22311.0,2015-02-02,2015-02-02,Bank of America,Closed with explanation,Yes,Yes
+26502,1183154,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,AL,35080.0,2015-01-06,2015-01-06,Equifax,Closed with explanation,Yes,Yes
+24007,1205541,Credit card,,APR or interest rate,,FL,32411.0,2015-01-12,2015-01-13,Capital One,Closed with explanation,Yes,
+2393,1266109,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,FL,33016.0,2015-03-03,2015-03-03,Bank of America,In progress,Yes,
+28127,1178151,Credit card,,Unsolicited issuance of credit card,,OH,43004.0,2015-01-01,2015-01-02,Citibank,Closed with non-monetary relief,Yes,No
+18353,1209378,Debt collection,Payday loan,Cont'd attempts collect debt not owed,Debt was paid,NJ,8052.0,2015-01-26,2015-01-29,Global Recovery Solutions,Untimely response,No,
+26213,1184056,Debt collection,Non-federal student loan,Taking/threatening an illegal action,Threatened to sue on too old debt,AK,99686.0,2015-01-07,2015-01-07,"EOS Holdings, Inc.",Closed with non-monetary relief,Yes,No
+25632,1186356,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,VA,23322.0,2015-01-08,2015-01-08,Ocwen,Closed with explanation,Yes,Yes
+2221,1267941,Credit reporting,,Incorrect information on credit report,Account terms,MN,55304.0,2015-03-04,2015-03-04,Experian,In progress,Yes,
+27932,1179526,Debt collection,Mortgage,Cont'd attempts collect debt not owed,Debt was paid,GA,30044.0,2015-01-02,2015-01-06,Ocwen,Closed with explanation,Yes,Yes
+19538,1206478,Credit card,,Billing disputes,,KY,40517.0,2015-01-23,2015-01-26,JPMorgan Chase,Closed with explanation,Yes,
+1448,1270685,Bank account or service,Checking account,Deposits and withdrawals,,WA,98177.0,2015-03-06,2015-03-06,U.S. Bancorp,Closed with explanation,Yes,
+4471,1256562,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,IN,46706.0,2015-02-25,2015-03-18,"Sentry Recovery and Collections, Inc.",Closed with explanation,Yes,
+3643,1261153,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,MI,48371.0,2015-02-27,2015-02-27,AmeriCollect,Closed with explanation,Yes,
+4659,1256277,Bank account or service,Checking account,"Account opening, closing, or management",,CA,90211.0,2015-02-25,2015-02-26,U.S. Bancorp,Closed with monetary relief,Yes,
+10519,1235942,Bank account or service,Other bank product/service,"Account opening, closing, or management",,NC,28314.0,2015-02-11,2015-02-20,TD Bank,Closed with explanation,Yes,
+11358,1233405,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,TX,78840.0,2015-02-10,2015-02-10,"Green Tree Servicing, LLC",Closed with explanation,Yes,
+23454,1196009,Prepaid card,General purpose card,Fraud or scam,,CA,91360.0,2015-01-13,2015-01-20,U.S. Bancorp,Closed with monetary relief,Yes,
+17001,1215721,Debt collection,Credit card,Improper contact or sharing of info,Contacted employer after asked not to,FL,33313.0,2015-01-28,2015-02-03,Scherr & McClure,In progress,Yes,
+5705,1251675,Credit card,,Closing/Cancelling account,,VA,23602.0,2015-02-23,2015-02-23,Discover,Closed with explanation,Yes,
+11487,1234418,Credit reporting,,Incorrect information on credit report,Personal information,CA,95605.0,2015-02-10,2015-02-10,Equifax,Closed with explanation,Yes,Yes
+8188,1245635,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,KY,41017.0,2015-02-18,2015-02-18,"Caliber Home Loans, Inc",Closed with explanation,Yes,
+7042,1247560,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,OK,73112.0,2015-02-19,2015-02-26,Experian,Closed with non-monetary relief,Yes,
+1092,1272608,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,TX,75766.0,2015-03-08,2015-03-08,Ocwen,Closed with explanation,Yes,Yes
+21037,1201219,Student loan,Non-federal student loan,Dealing with my lender or servicer,,CO,80521.0,2015-01-20,2015-01-21,Navient,Closed with explanation,Yes,
+10890,1234903,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,MA,1841.0,2015-02-11,2015-02-11,Equifax,Closed with non-monetary relief,Yes,Yes
+13086,1228312,Credit reporting,,Incorrect information on credit report,Personal information,TN,37130.0,2015-02-05,2015-02-06,TransUnion,Closed with explanation,Yes,
+18815,1208106,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,FL,33304.0,2015-01-24,2015-01-24,Flagstar Bank,Closed with explanation,Yes,Yes
+4707,1257715,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,NM,88012.0,2015-02-25,2015-03-04,Wells Fargo,Closed with explanation,Yes,Yes
+11509,1233139,Debt collection,"Other (phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,WA,98387.0,2015-02-10,2015-02-10,Encore Capital Group,Closed with explanation,Yes,
+14458,1225511,Consumer loan,Vehicle loan,Shopping for a loan or lease,,TX,79424.0,2015-02-03,2015-02-04,Ally Financial Inc.,Closed with explanation,Yes,
+11012,1233957,Credit card,,Identity theft / Fraud / Embezzlement,,TX,75203.0,2015-02-10,2015-02-13,"First National Collection Bureau, Inc.",Closed with explanation,Yes,
+19720,1203902,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,NC,27604.0,2015-01-22,2015-01-22,Wells Fargo,Closed with explanation,Yes,
+1441,1270881,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,MD,20706.0,2015-03-06,2015-03-13,Financial Management Solutions,Closed with explanation,Yes,
+4984,1257394,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,NY,11219.0,2015-02-25,2015-03-03,Experian,In progress,Yes,
+10650,1236557,Debt collection,Non-federal student loan,Disclosure verification of debt,Not given enough info to verify debt,WA,98087.0,2015-02-11,2015-02-19,GC Services Limited Partnership,Closed with non-monetary relief,Yes,
+25550,1186122,Credit reporting,,Incorrect information on credit report,Account status,OK,74422.0,2015-01-08,2015-01-13,GE Capital Retail,Closed with explanation,Yes,No
+10936,1234967,Credit card,,Other,,AR,71968.0,2015-02-11,2015-02-11,GE Capital Retail,Closed with explanation,Yes,
+7095,1247114,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,OH,45693.0,2015-02-19,2015-02-19,Ocwen,Closed with explanation,Yes,
+5144,1255192,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,MS,39215.0,2015-02-24,2015-02-24,"Green Tree Servicing, LLC",Closed with explanation,Yes,
+5425,1253375,Consumer loan,Installment loan,Managing the loan or lease,,MD,21009.0,2015-02-24,2015-03-03,"AmerAssist A/R Solutions, Inc.",In progress,Yes,
+24615,1189264,Mortgage,Conventional fixed mortgage,Settlement process and costs,,CA,95758.0,2015-01-10,2015-01-10,Ocwen,Closed with explanation,Yes,
+2041,1268041,Credit reporting,,Incorrect information on credit report,Information is not mine,NY,11203.0,2015-03-04,2015-03-11,Experian,Closed with explanation,Yes,
+26261,1182021,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,FL,33189.0,2015-01-06,2015-01-09,Ocwen,Untimely response,No,
+6711,1248561,Debt collection,Non-federal student loan,Communication tactics,Threatened to take legal action,MI,48238.0,2015-02-20,2015-02-23,AES/PHEAA,Closed with explanation,Yes,
+4450,1256507,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,FL,33073.0,2015-02-25,2015-03-03,Bank of America,Closed with explanation,Yes,
+22451,1196262,Credit card,,Closing/Cancelling account,,IL,60139.0,2015-01-15,2015-01-16,Bank of America,Closed with monetary relief,Yes,
+4982,1257382,Credit reporting,,Incorrect information on credit report,Public record,FL,34667.0,2015-02-25,2015-02-25,Experian,Closed with non-monetary relief,Yes,
+13712,1224336,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,NY,13068.0,2015-02-04,2015-02-09,Ocwen,Closed with explanation,Yes,
+10475,1237268,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Frequent or repeated calls,CA,92075.0,2015-02-11,2015-02-12,"I.C. System, Inc.",Closed with explanation,Yes,
+7745,1246825,Credit reporting,,Incorrect information on credit report,Information is not mine,TX,77375.0,2015-02-18,2015-02-19,Experian,In progress,Yes,
+20571,1201694,Debt collection,Federal student loan,Communication tactics,Frequent or repeated calls,,,2015-01-21,2015-01-26,Allied Interstate LLC,Closed with non-monetary relief,Yes,
+8648,1242938,Bank account or service,Other bank product/service,"Account opening, closing, or management",,NC,28312.0,2015-02-17,2015-02-26,CIS Direct Lending,Closed with explanation,Yes,
+1406,1271979,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,WI,53066.0,2015-03-06,2015-03-06,Citibank,In progress,Yes,
+24964,1187782,Credit card,,Billing statement,,,,2015-01-09,2015-01-09,Citibank,Closed with monetary relief,Yes,No
+12524,1228351,Bank account or service,Checking account,Deposits and withdrawals,,NC,28170.0,2015-02-06,2015-02-06,BB&T Financial,Closed with explanation,Yes,
+16957,1213260,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,NJ,7728.0,2015-01-28,2015-02-02,Wells Fargo,Closed with explanation,Yes,Yes
+25548,1186034,Credit card,,Advertising and marketing,,KY,40013.0,2015-01-08,2015-01-12,PayPal,Closed with explanation,Yes,
+22855,1194986,Bank account or service,Checking account,Problems caused by my funds being low,,AR,72033.0,2015-01-15,2015-01-20,Regions,Closed with explanation,Yes,
+9849,1239883,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,CO,80111.0,2015-02-13,2015-02-13,"EOS Holdings, Inc.",Closed with explanation,Yes,
+12010,1233046,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,SC,29745.0,2015-02-09,2015-02-12,Citibank,Closed with non-monetary relief,Yes,Yes
+5354,1254996,Credit card,,Billing disputes,,FL,33319.0,2015-02-24,2015-03-02,Amex,Closed with explanation,Yes,
+7298,1246445,Consumer loan,Vehicle lease,Taking out the loan or lease,,PA,18914.0,2015-02-19,2015-02-19,U.S. Bancorp,Closed with explanation,Yes,Yes
+2918,1263354,Mortgage,Conventional fixed mortgage,Settlement process and costs,,CA,94602.0,2015-03-02,2015-03-02,U.S. Bancorp,Closed with explanation,Yes,
+4501,1256617,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,VA,22192.0,2015-02-25,2015-03-03,Ocwen,Closed with explanation,Yes,
+22649,1195216,Credit reporting,,Incorrect information on credit report,Account terms,MN,55042.0,2015-01-15,2015-01-20,TransUnion,Closed with explanation,Yes,
+10841,1237346,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,NJ,8882.0,2015-02-11,2015-02-12,Absolute Resolutions Corp.,Closed,Yes,
+23149,1193421,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,FL,33327.0,2015-01-14,2015-01-14,Guaranteed Rate,Closed with explanation,Yes,Yes
+278,1282612,Credit card,,Other,,OH,43123.0,2015-03-13,2015-03-13,JPMorgan Chase,Closed with explanation,Yes,
+15342,1221135,Debt collection,,Disclosure verification of debt,Right to dispute notice not received,KY,40744.0,2015-02-02,2015-02-02,"Lloyd & McDaniel, PLC",Closed with explanation,Yes,
+20187,1206745,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,MD,21001.0,2015-01-22,2015-01-27,"Caliber Home Loans, Inc",Closed with explanation,Yes,
+9922,1238374,Consumer loan,Vehicle loan,Managing the loan or lease,,CA,92220.0,2015-02-12,2015-02-12,Hyundai Capital America,Closed with explanation,Yes,
+1503,1270972,Credit reporting,,Incorrect information on credit report,Information is not mine,TX,79404.0,2015-03-06,2015-03-06,Equifax,Closed with explanation,Yes,
+16534,1215989,Debt collection,Medical,Taking/threatening an illegal action,Sued w/o proper notification of suit,NY,13605.0,2015-01-29,2015-01-29,"Security Credit Services, LLC",Closed with explanation,Yes,Yes
+16070,1219317,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,NY,10550.0,2015-01-30,2015-01-31,TransUnion,Closed with non-monetary relief,Yes,
+7738,1244199,Payday loan,,Can't contact lender,,TX,76633.0,2015-02-18,2015-02-19,Speedy Cash Holdings,Closed with explanation,Yes,
+6879,1249300,Debt collection,Payday loan,Improper contact or sharing of info,Contacted employer after asked not to,CA,96007.0,2015-02-20,2015-03-02,"Bliksum, LLC",Closed with explanation,Yes,
+16731,1214233,Debt collection,Auto,Cont'd attempts collect debt not owed,Debt was paid,PA,15675.0,2015-01-28,2015-02-20,"Constar Financial Services, LLC",Closed with explanation,Yes,
+4181,1259895,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,IN,46151.0,2015-02-26,2015-02-27,Nationstar Mortgage,Closed with explanation,Yes,
+11073,1234446,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",,NJ,7642.0,2015-02-10,2015-02-13,JPMorgan Chase,Closed with explanation,Yes,
+11887,1233114,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,AZ,85019.0,2015-02-09,2015-02-10,"Aldous & Associates, PLLC",Closed with explanation,Yes,
+9159,1241330,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,FL,33324.0,2015-02-15,2015-02-15,Ocwen,In progress,Yes,
+4900,1257135,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,IL,60445.0,2015-02-25,2015-03-04,Equifax,Closed with explanation,Yes,Yes
+19570,1206019,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,TX,76116.0,2015-01-23,2015-02-10,Experian,In progress,Yes,
+21457,1200675,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,MD,20741.0,2015-01-19,2015-01-20,Wells Fargo,Closed with explanation,Yes,
+5121,1253928,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,AZ,85249.0,2015-02-24,2015-02-24,Transworld Systems Inc.,Closed with explanation,Yes,
+11976,1231026,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,NV,,2015-02-09,2015-02-12,"Green Tree Servicing, LLC",Closed with explanation,Yes,
+9069,1241987,Payday loan,,Can't contact lender,,,,2015-02-16,2015-02-24,"Bliksum, LLC",Closed with explanation,Yes,
+18469,1210363,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,CA,95820.0,2015-01-26,2015-01-26,Citibank,Closed with explanation,Yes,
+397,1280287,Debt collection,Payday loan,Improper contact or sharing of info,Contacted me after I asked not to,TX,78832.0,2015-03-12,2015-03-12,Niagara Portfolio Solutions LLC,Closed,Yes,Yes
+21380,1198657,Credit card,,Other fee,,NY,10002.0,2015-01-19,2015-01-19,JPMorgan Chase,Closed with monetary relief,Yes,
+20629,1201902,Credit reporting,,Incorrect information on credit report,Account terms,MA,2139.0,2015-01-21,2015-01-21,Experian,Closed with explanation,Yes,Yes
+22006,1197464,Mortgage,Other mortgage,Other,,FL,32824.0,2015-01-16,2015-01-27,Seterus,Closed with explanation,Yes,
+2141,1268657,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",,DE,19709.0,2015-03-04,2015-03-05,Wells Fargo,Closed with monetary relief,Yes,
+7406,1247426,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,AL,35111.0,2015-02-19,2015-03-03,"Capital Collections, LLC",Untimely response,No,
+24721,1189474,Consumer loan,Installment loan,Shopping for a loan or lease,,CA,91603.0,2015-01-10,2015-01-14,Credit Plus Inc,Closed with explanation,Yes,Yes
+21868,1198146,Credit card,,Identity theft / Fraud / Embezzlement,,CA,90403.0,2015-01-17,2015-01-17,JPMorgan Chase,Closed with explanation,Yes,
+20262,1203604,Credit reporting,,Incorrect information on credit report,Account terms,FL,32750.0,2015-01-21,2015-01-26,Equifax,Closed with explanation,Yes,
+8028,1244793,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",,IA,50536.0,2015-02-18,2015-02-18,Washington Federal,Closed with explanation,Yes,
+19391,1207412,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,FL,32256.0,2015-01-23,2015-01-23,"Caliber Home Loans, Inc",Closed with explanation,Yes,Yes
+7318,1248317,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,NJ,7470.0,2015-02-19,2015-02-19,TransUnion,Closed with non-monetary relief,Yes,
+12989,1229284,Debt collection,,Communication tactics,Threatened to take legal action,MA,2186.0,2015-02-06,2015-02-18,"National Principal Group, LLC",Closed with explanation,Yes,
+14975,1221978,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,KS,67114.0,2015-02-02,2015-02-03,West Corporation,In progress,Yes,
+13132,1228210,Payday loan,,Charged fees or interest I didn't expect,,LA,70072.0,2015-02-05,2015-02-06,"Enova International, Inc.",In progress,Yes,
+17546,1211525,Payday loan,,Charged fees or interest I didn't expect,,MD,21133.0,2015-01-27,2015-01-27,"Enova International, Inc.",Closed with explanation,Yes,
+13903,1224547,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,TX,76273.0,2015-02-04,2015-02-18,Concord Resolution Inc,Untimely response,No,
+10881,1235442,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,FL,34786.0,2015-02-11,2015-02-11,Bank of America,Closed with non-monetary relief,Yes,
+5339,1254399,Credit reporting,,Incorrect information on credit report,Account status,FL,33030.0,2015-02-24,2015-02-24,Equifax,Closed with explanation,Yes,
+5034,1255657,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,OH,43078.0,2015-02-24,2015-02-25,Freedom Mortgage,Closed with explanation,Yes,Yes
+14522,1222505,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,NY,11950.0,2015-02-03,2015-02-06,"CCS Financial Services, Inc.",Closed with explanation,Yes,
+8058,1245374,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,VA,20187.0,2015-02-18,2015-02-18,Focus Holding Company,Closed with explanation,Yes,
+19928,1205885,Payday loan,,Charged fees or interest I didn't expect,,SC,29927.0,2015-01-22,2015-01-27,"Risecredit, LLC",Closed with explanation,Yes,
+1536,1270618,Debt collection,Mortgage,Cont'd attempts collect debt not owed,Debt resulted from identity theft,NY,11228.0,2015-03-05,2015-03-06,"ClearSpring Loan Services, Inc.",Closed with explanation,Yes,
+20216,1203497,Payday loan,,Can't contact lender,,TX,77042.0,2015-01-21,2015-01-26,"Check into Cash, Inc.",Closed with monetary relief,Yes,
+21648,1198790,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,IA,52349.0,2015-01-18,2015-01-19,"Debt Recovery Solutions, LLC",Closed with explanation,Yes,
+23918,1192157,Credit reporting,,Incorrect information on credit report,Information is not mine,PR,733.0,2015-01-13,2015-02-26,Experian,In progress,Yes,
+7850,1244117,Consumer loan,Vehicle loan,Managing the loan or lease,,NC,27406.0,2015-02-18,2015-02-24,"Byrider Franchising, LLC",Closed with explanation,Yes,
+26643,1183728,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,LA,71171.0,2015-01-06,2015-01-07,Seterus,Closed with explanation,Yes,
+20788,1202301,Debt collection,Credit card,Taking/threatening an illegal action,Threatened to sue on too old debt,MI,48227.0,2015-01-21,2015-01-21,Citibank,Closed with explanation,Yes,Yes
+2904,1263434,Student loan,Non-federal student loan,Dealing with my lender or servicer,,MO,64081.0,2015-03-02,2015-03-02,Navient,Closed with explanation,Yes,
+24877,1189133,Credit reporting,,Incorrect information on credit report,Account status,NJ,7042.0,2015-01-09,2015-01-10,Equifax,Closed with explanation,Yes,Yes
+22397,1197452,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,OH,44140.0,2015-01-15,2015-01-16,Ocwen,Closed with explanation,Yes,
+7091,1246369,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,NJ,7083.0,2015-02-19,2015-02-19,Equifax,In progress,Yes,
+7937,1244564,Consumer loan,Installment loan,Problems when you are unable to pay,,AZ,85018.0,2015-02-18,2015-02-24,GE Capital Retail,Closed with monetary relief,Yes,
+11994,1231250,Debt collection,Medical,False statements or representation,Indicated committed crime not paying,NJ,8251.0,2015-02-09,2015-02-09,"APEX Asset Management, LLC",Untimely response,No,
+25721,1184298,Payday loan,,Charged fees or interest I didn't expect,,LA,71129.0,2015-01-07,2015-01-12,"CashCall, Inc.",Closed with explanation,Yes,
+2858,1263577,Student loan,Non-federal student loan,Can't repay my loan,,CA,95825.0,2015-03-02,2015-03-02,Navient,Closed with explanation,Yes,
+15825,1218278,Consumer loan,Vehicle loan,Managing the loan or lease,,TX,76018.0,2015-01-30,2015-01-30,Santander Consumer USA,Closed with explanation,Yes,
+14128,1224976,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,TX,77095.0,2015-02-04,2015-02-04,"FAIR COLLECTIONS & OUTSOURCING, INC.",Closed with explanation,Yes,
+9565,1240463,Credit card,,Rewards,,MS,39110.0,2015-02-13,2015-02-13,Discover,Closed with explanation,Yes,
+23492,1196126,Other financial service,Foreign currency exchange,Incorrect exchange rate,,TN,37040.0,2015-01-13,2015-01-16,Bank of America,Closed,Yes,
+24593,1189126,Student loan,Non-federal student loan,Getting a loan,,NY,11375.0,2015-01-10,2015-01-10,AES/PHEAA,Closed with explanation,Yes,No
+16222,1215938,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,FL,32068.0,2015-01-29,2015-02-02,"Diversified Consultants, Inc.",Closed with explanation,Yes,
+15022,1219801,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,FL,33617.0,2015-02-02,2015-02-06,Bank of America,Closed with explanation,Yes,
+23214,1193664,Debt collection,,Communication tactics,Frequent or repeated calls,MO,63701.0,2015-01-14,2015-01-20,"ARS National Services, Inc.",Closed with explanation,Yes,
+21471,1198801,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,MS,38654.0,2015-01-19,2015-01-19,"Enhanced Recovery Company, LLC",Closed with non-monetary relief,Yes,Yes
+17792,1211683,Credit card,,Other,,MA,2139.0,2015-01-27,2015-01-27,JPMorgan Chase,Closed with explanation,Yes,
+16197,1215917,Credit reporting,,Incorrect information on credit report,Public record,NC,28273.0,2015-01-29,2015-01-29,Equifax,Closed with explanation,Yes,
+12042,1230841,Credit reporting,,Incorrect information on credit report,Account status,OH,43125.0,2015-02-09,2015-02-12,Equifax,Closed with explanation,Yes,Yes
+26635,1183669,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,CA,90019.0,2015-01-06,2015-01-07,Ocwen,Closed with explanation,Yes,No
+24401,1190098,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,OR,97502.0,2015-01-12,2015-01-12,Capital One,Closed with explanation,Yes,
+19207,1207141,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,FL,33971.0,2015-01-23,2015-01-23,"Caliber Home Loans, Inc",Closed with explanation,Yes,
+24765,1189679,Mortgage,VA mortgage,"Loan servicing, payments, escrow account",,WA,98362.0,2015-01-10,2015-01-14,PHH Mortgage,Closed with explanation,Yes,
+23808,1191878,Credit card,,Customer service / Customer relations,,NY,12603.0,2015-01-13,2015-01-14,Citibank,Closed with explanation,Yes,
+11973,1231054,Bank account or service,Checking account,Using a debit or ATM card,,NY,11235.0,2015-02-09,2015-02-09,Bank of America,Closed with monetary relief,Yes,
+22960,1192677,Credit reporting,,Incorrect information on credit report,Information is not mine,TX,79415.0,2015-01-14,2015-01-14,Experian,Closed with non-monetary relief,Yes,
+21811,1198149,Bank account or service,Checking account,"Account opening, closing, or management",,CA,90057.0,2015-01-17,2015-01-17,Union Bank,Closed with explanation,Yes,
+9672,1240924,Credit card,,Identity theft / Fraud / Embezzlement,,HI,96819.0,2015-02-13,2015-02-14,Discover,Closed with non-monetary relief,Yes,
+23319,1194248,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,NC,28752.0,2015-01-14,2015-01-15,Ocwen,Closed with explanation,Yes,Yes
+852,1274453,Credit reporting,,Incorrect information on credit report,Account terms,GA,30093.0,2015-03-09,2015-03-09,Equifax,Closed with explanation,Yes,Yes
+18813,1208869,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,FL,33146.0,2015-01-24,2015-01-25,Wells Fargo,Closed with explanation,Yes,Yes
+3308,1261993,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,PA,19311.0,2015-02-28,2015-02-28,Bank of America,Closed with non-monetary relief,Yes,Yes
+15730,1219329,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,ID,83713.0,2015-01-30,2015-01-31,U.S. Bancorp,Closed with explanation,Yes,Yes
+13035,1229680,Credit reporting,,Incorrect information on credit report,Account status,OH,43085.0,2015-02-06,2015-02-06,Experian,Closed with non-monetary relief,Yes,
+274,1282484,Credit reporting,,Incorrect information on credit report,Account terms,NY,10016.0,2015-03-13,2015-03-13,Equifax,Closed with explanation,Yes,
+15986,1217977,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,PA,18064.0,2015-01-30,2015-01-30,Nationstar Mortgage,Closed with explanation,Yes,
+27567,1179806,Student loan,Non-federal student loan,Can't repay my loan,,GA,30319.0,2015-01-03,2015-01-04,Navient,Closed with explanation,Yes,No
+2342,1265306,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,NC,28390.0,2015-03-03,2015-03-09,Wells Fargo,Closed with explanation,Yes,
+19997,1204496,Debt collection,Credit card,Improper contact or sharing of info,Contacted me after I asked not to,CA,92115.0,2015-01-22,2015-01-22,GE Capital Retail,Closed with non-monetary relief,Yes,
+15793,1217475,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,CA,90603.0,2015-01-30,2015-01-30,Citibank,Closed with explanation,Yes,
+7317,1248332,Student loan,Non-federal student loan,Dealing with my lender or servicer,,NY,14120.0,2015-02-19,2015-02-19,Navient,Closed with explanation,Yes,
+7136,1246404,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,CA,95377.0,2015-02-19,2015-02-25,Wells Fargo,Closed with explanation,Yes,
+19427,1207907,Credit card,,Billing disputes,,MT,59870.0,2015-01-23,2015-01-24,Citibank,Closed with explanation,Yes,
+19959,1204330,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,MD,20602.0,2015-01-22,2015-01-22,Wells Fargo,Closed with explanation,Yes,
+13953,1224708,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,646.0,2015-02-04,2015-02-11,Banco Santander Puerto Rico,Closed with explanation,Yes,
+12655,1228086,Credit reporting,,Incorrect information on credit report,Account terms,,85929.0,2015-02-06,2015-02-06,Equifax,Closed with explanation,Yes,
+20168,1204940,Debt collection,,Communication tactics,Used obscene/profane/abusive language,MA,2330.0,2015-01-22,2015-01-29,Nations Recovery Center,Closed with non-monetary relief,Yes,Yes
+9527,1239550,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,CA,90056.0,2015-02-13,2015-02-13,Ocwen,Closed with explanation,Yes,
+9880,1237943,Consumer loan,Personal line of credit,Problems when you are unable to pay,,NC,28328.0,2015-02-12,2015-02-18,GE Capital Retail,Closed with explanation,Yes,
+14990,1220215,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,FL,33414.0,2015-02-02,2015-02-05,"Portfolio Recovery Associates, Inc.",Closed with explanation,Yes,
+23613,1191518,Debt collection,Credit card,Disclosure verification of debt,Not disclosed as an attempt to collect,TX,75203.0,2015-01-13,2015-01-14,Bank of America,Closed with explanation,Yes,
+9202,1241625,Credit card,,Credit line increase/decrease,,TX,76009.0,2015-02-15,2015-02-16,GE Capital Retail,Closed with monetary relief,Yes,
+5047,1253765,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,AL,35211.0,2015-02-24,2015-03-03,"Convergent Resources, Inc.",Closed with explanation,Yes,
+14625,1225481,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,OH,44052.0,2015-02-03,2015-02-04,Encore Capital Group,Closed with explanation,Yes,Yes
+20619,1201864,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,FL,32956.0,2015-01-21,2015-01-23,Radius Global Solutions LLC,Closed with explanation,Yes,
+905,1274393,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,NY,13901.0,2015-03-09,2015-03-09,"EOS Holdings, Inc.",Closed with explanation,Yes,Yes
+14666,1221701,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,FL,33181.0,2015-02-03,2015-02-03,"Select Portfolio Servicing, Inc",Closed with explanation,Yes,
+12350,1230261,Bank account or service,Other bank product/service,Using a debit or ATM card,,NY,10001.0,2015-02-07,2015-02-07,Capital One,Closed with explanation,Yes,Yes
+20913,1198954,Debt collection,,Disclosure verification of debt,Not given enough info to verify debt,CA,91766.0,2015-01-20,2015-01-22,JLU Asset Management Group LTD,Untimely response,No,
+22351,1197207,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,OH,43228.0,2015-01-16,2015-01-16,"Diversified Consultants, Inc.",Closed with explanation,Yes,
+14133,1224672,Payday loan,,Can't contact lender,,MA,1087.0,2015-02-04,2015-02-09,"Brightwater Capital, LLC",Closed,No,
+10392,1237202,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,WA,98155.0,2015-02-11,2015-02-19,Ocwen,Closed with explanation,Yes,
+3601,1261347,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,CA,91387.0,2015-02-27,2015-02-27,Amerisave,Closed with monetary relief,Yes,
+21392,1198686,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,MD,21230.0,2015-01-19,2015-01-19,Flagstar Bank,Closed with explanation,Yes,
+18884,1207988,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,GA,30364.0,2015-01-24,2015-01-24,James B. Nutter & Company,Closed with explanation,Yes,Yes
+10299,1239275,Debt collection,,Communication tactics,Frequent or repeated calls,IA,52317.0,2015-02-12,2015-02-12,"The CBE Group, Inc.",Closed with explanation,Yes,
+18170,1209496,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,NJ,8880.0,2015-01-26,2015-01-26,"HOVG, LLC",Closed with explanation,Yes,Yes
+24433,1190199,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Frequent or repeated calls,SC,29907.0,2015-01-12,2015-01-15,Delbert Services,Closed with explanation,Yes,
+25728,1185074,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,CA,91103.0,2015-01-07,2015-01-13,Wells Fargo,Closed with explanation,No,
+8616,1242651,Debt collection,,False statements or representation,Attempted to collect wrong amount,MO,63114.0,2015-02-17,2015-02-17,"GAMACHE & MYERS, PC",Closed with explanation,Yes,
+26808,1180142,Bank account or service,Other bank product/service,"Account opening, closing, or management",,PA,18504.0,2015-01-05,2015-01-16,Wells Fargo,Closed with explanation,Yes,
+3068,1262398,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,NJ,7079.0,2015-03-02,2015-03-10,Equifax,Closed with explanation,Yes,Yes
+18712,1208164,Bank account or service,Savings account,"Account opening, closing, or management",,CA,91750.0,2015-01-25,2015-01-25,U.S. Bancorp,Closed with monetary relief,Yes,
+2140,1268123,Consumer loan,Vehicle lease,Managing the loan or lease,,CA,92673.0,2015-03-04,2015-03-04,Mercedes-Benz Financial Services,In progress,Yes,
+27836,1179207,Bank account or service,Other bank product/service,"Account opening, closing, or management",,MD,21117.0,2015-01-02,2015-01-02,PNC Bank,Closed with explanation,Yes,
+7703,1244732,Debt collection,,Communication tactics,Frequent or repeated calls,VA,22172.0,2015-02-18,2015-02-24,Gila LLC,Closed with explanation,Yes,
+22872,1194457,Credit reporting,,Incorrect information on credit report,Account status,MD,20854.0,2015-01-15,2015-01-26,Equifax,Closed with explanation,Yes,
+10676,1236128,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,NM,87008.0,2015-02-11,2015-02-11,Regional Management Corp.,Closed with explanation,Yes,
+2136,1267994,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,FL,33060.0,2015-03-04,2015-03-04,TransUnion,Closed with non-monetary relief,Yes,Yes
+12769,1228621,Mortgage,FHA mortgage,Credit decision / Underwriting,,NM,87048.0,2015-02-06,2015-02-11,Bank of America,Closed with explanation,Yes,
+15059,1221288,Credit card,,Billing disputes,,CA,91745.0,2015-02-02,2015-02-03,Amex,Closed with monetary relief,Yes,
+13298,1226000,Debt collection,Credit card,Taking/threatening an illegal action,Threatened to sue on too old debt,,76022.0,2015-02-05,2015-02-05,Capital One,Closed with explanation,Yes,Yes
+4867,1257836,Credit card,,Advertising and marketing,,CA,92131.0,2015-02-25,2015-02-26,JPMorgan Chase,Closed with non-monetary relief,Yes,
+1288,1282952,Credit card,,Closing/Cancelling account,,MA,1010.0,2015-03-06,2015-03-13,Bank of America,Closed with explanation,Yes,
+7880,1244181,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,CA,92407.0,2015-02-18,2015-02-18,Ocwen,In progress,Yes,
+14946,1219876,Credit reporting,,Incorrect information on credit report,Personal information,OH,45651.0,2015-02-02,2015-02-06,TransUnion,Closed with explanation,Yes,
+7510,1249235,Credit reporting,,Incorrect information on credit report,Account status,NJ,7032.0,2015-02-19,2015-02-20,Experian,In progress,Yes,
+18411,1209372,Student loan,Non-federal student loan,Dealing with my lender or servicer,,LA,71457.0,2015-01-26,2015-01-26,Navient,Closed with explanation,Yes,
+9162,1241213,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,NY,11372.0,2015-02-15,2015-02-15,Nationstar Mortgage,Closed with explanation,Yes,
+15205,1221660,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,WI,53216.0,2015-02-02,2015-02-03,"HireRight Solutions, Inc.",Closed with explanation,Yes,
+21261,1199970,Mortgage,Other mortgage,Other,,WA,98466.0,2015-01-20,2015-01-23,Nationstar Mortgage,Closed with explanation,Yes,
+17636,1211958,Debt collection,Medical,False statements or representation,Indicated committed crime not paying,FL,32656.0,2015-01-27,2015-01-30,"Choice Recovery, Inc.",Closed with explanation,Yes,
+2061,1267350,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,CA,95134.0,2015-03-04,2015-03-04,"National Credit Systems,Inc.",Closed with explanation,Yes,
+22257,1196845,Debt collection,,Improper contact or sharing of info,Talked to a third party about my debt,NY,13363.0,2015-01-16,2015-01-21,Forster & Garbus LLP,Closed with explanation,Yes,
+20495,1201529,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,DE,19808.0,2015-01-21,2015-01-23,PNC Bank,Closed with explanation,Yes,
+21781,1197829,Bank account or service,Checking account,"Account opening, closing, or management",,NJ,7003.0,2015-01-17,2015-01-17,TD Bank,Closed with monetary relief,Yes,Yes
+4282,1258996,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,20.0,2015-02-26,2015-03-04,"Expert Global Solutions, Inc.",Closed with explanation,Yes,
+26945,1181146,Consumer loan,Installment loan,Taking out the loan or lease,,VA,22302.0,2015-01-05,2015-01-06,Bank of America,Closed with explanation,Yes,
+21337,1200277,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,FL,32164.0,2015-01-20,2015-01-20,Bank of America,Closed with explanation,Yes,
+9564,1240480,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,AZ,85251.0,2015-02-13,2015-02-13,First California Mortgage Co,Closed with explanation,Yes,
+573,1277429,Debt collection,,Taking/threatening an illegal action,Threatened arrest/jail if do not pay,MI,48822.0,2015-03-11,2015-03-12,"Convergent Resources, Inc.",Closed with explanation,Yes,
+8085,1246813,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,CA,92139.0,2015-02-18,2015-02-19,Ocwen,Closed with explanation,Yes,
+8365,1243154,Bank account or service,Checking account,Deposits and withdrawals,,NM,87105.0,2015-02-17,2015-02-18,Wells Fargo,Closed with non-monetary relief,Yes,
+9962,1238375,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,NC,27613.0,2015-02-12,2015-02-19,Wells Fargo,Closed with explanation,Yes,
+24338,1189907,Credit card,,Balance transfer,,FL,34714.0,2015-01-12,2015-01-12,Discover,Closed with explanation,Yes,Yes
+19047,1207720,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt was paid,ID,83835.0,2015-01-23,2015-01-24,TD Bank,Closed with explanation,Yes,Yes
+13190,1226376,Credit card,,Delinquent account,,AZ,68568.0,2015-02-05,2015-02-06,JPMorgan Chase,Closed with explanation,Yes,Yes
+23922,1192163,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,LA,70119.0,2015-01-13,2015-01-13,"Pinnacle Credit Services, LLC",Closed with explanation,Yes,Yes
+16291,1216842,Credit reporting,,Incorrect information on credit report,Information is not mine,TN,37080.0,2015-01-29,2015-01-29,Equifax,Closed with non-monetary relief,Yes,
+22001,1197492,Bank account or service,Checking account,"Account opening, closing, or management",,GA,30004.0,2015-01-16,2015-01-16,PNC Bank,Closed,Yes,
+27265,1181861,Consumer loan,Vehicle loan,Problems when you are unable to pay,,GA,30144.0,2015-01-05,2015-01-06,Nissan Motor Acceptance Corporation,Closed,Yes,
+24550,1189687,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,FL,34221.0,2015-01-11,2015-01-11,U.S. Bancorp,Closed with non-monetary relief,Yes,
+17538,1212001,Mortgage,Other mortgage,Other,,NJ,8054.0,2015-01-27,2015-01-30,"Green Tree Servicing, LLC",Closed with non-monetary relief,Yes,
+16851,1215029,Credit card,,Late fee,,VA,23112.0,2015-01-28,2015-01-29,Capital One,Closed with non-monetary relief,Yes,
+23254,1194056,Credit reporting,,Incorrect information on credit report,Account terms,FL,33325.0,2015-01-14,2015-01-15,TransUnion,Closed with explanation,Yes,
+21466,1198849,Bank account or service,Checking account,"Making/receiving payments, sending money",,IL,60202.0,2015-01-19,2015-01-19,Bank of America,Closed with explanation,Yes,
+26719,1181786,Credit reporting,,Incorrect information on credit report,Account status,TX,76087.0,2015-01-06,2015-01-14,Experian,Closed with explanation,Yes,
+8650,1243132,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,NY,10928.0,2015-02-17,2015-02-27,Law Office of Linda Strumpf,Closed with explanation,Yes,
+5551,1255079,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt was paid,TN,37011.0,2015-02-24,2015-02-24,"WAKEFIELD & ASSOCIATES, INC.",Closed with explanation,Yes,
+22275,1196941,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,NC,28117.0,2015-01-16,2015-01-16,"Escallate, LLC",Closed with explanation,Yes,
+20526,1202542,Bank account or service,Checking account,"Account opening, closing, or management",,CA,91325.0,2015-01-21,2015-01-21,Bank of America,Closed with non-monetary relief,Yes,
+15609,1219489,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,NY,11105.0,2015-01-31,2015-01-31,"Asta Funding, Inc",Closed with explanation,Yes,Yes
+8211,1245270,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,MO,65270.0,2015-02-18,2015-02-25,SunTrust Bank,Closed with explanation,Yes,
+250,1281990,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,VA,23168.0,2015-03-13,2015-03-13,Equifax,In progress,Yes,
+24379,1189989,Credit reporting,,Incorrect information on credit report,Personal information,FL,34609.0,2015-01-12,2015-01-12,TransUnion,Closed with explanation,Yes,No
+8763,1241695,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,NC,27892.0,2015-02-16,2015-02-23,Residential Credit Solutions,Closed with explanation,No,
+14858,1221762,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,VA,22079.0,2015-02-02,2015-02-03,Capital One,Closed with explanation,Yes,
+6777,1248653,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,PA,15102.0,2015-02-20,2015-02-20,"Select Portfolio Servicing, Inc",Closed with explanation,Yes,
+26254,1182027,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,PA,19380.0,2015-01-06,2015-01-09,Citibank,Closed with explanation,Yes,
+4104,1258491,Credit reporting,,Incorrect information on credit report,Account status,AZ,85249.0,2015-02-26,2015-03-10,Equifax,In progress,Yes,
+10495,1236105,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,CA,92223.0,2015-02-11,2015-02-11,"CMRE Financial Services, Inc.",In progress,Yes,
+15117,1221955,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,TN,37211.0,2015-02-02,2015-02-03,"United Collection Bureau, Inc.",Closed with explanation,Yes,
+11506,1233280,Debt collection,"Other (phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,AL,36549.0,2015-02-10,2015-02-10,Sunrise Credit Services Inc.,Closed with explanation,Yes,
+21524,1199089,Debt collection,"Other (phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,PA,15927.0,2015-01-19,2015-01-20,"Credence Resource Management, LLC",Closed with explanation,Yes,Yes
+7427,1248419,Bank account or service,Savings account,Deposits and withdrawals,,MI,49512.0,2015-02-19,2015-03-02,GE Capital Bank,Closed with explanation,Yes,
+8516,1243662,Credit card,,Other,,NJ,8753.0,2015-02-17,2015-02-17,Capital One,Closed with explanation,Yes,
+28016,1178466,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,FL,33312.0,2015-01-02,2015-01-02,Wells Fargo,Closed with monetary relief,Yes,
+27629,1178575,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,FL,32580.0,2015-01-02,2015-01-02,Citibank,Closed with explanation,Yes,
+1190,1272810,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,OK,73012.0,2015-03-07,2015-03-07,"MRS BPO, L.L.C.",Closed with explanation,Yes,
+8242,1242954,Payday loan,,Received a loan I didn't apply for,,AL,35224.0,2015-02-17,2015-02-17,Red Rock Tribal Lending,Closed with explanation,Yes,
+24628,1189285,Debt collection,Mortgage,Communication tactics,Frequent or repeated calls,NH,3104.0,2015-01-10,2015-01-13,Nationstar Mortgage,Closed with explanation,Yes,
+27038,1181025,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,WI,54703.0,2015-01-05,2015-01-08,PNC Bank,Closed with explanation,Yes,
+24840,1188857,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,NJ,7302.0,2015-01-09,2015-01-09,Wells Fargo,Closed with explanation,Yes,
+5343,1257130,Debt collection,Auto,Communication tactics,Called outside of 8am-9pm,TN,38134.0,2015-02-24,2015-02-25,Exeter Finance Corp,Closed with explanation,Yes,
+4702,1256228,Debt collection,"Other (phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,MI,49423.0,2015-02-25,2015-03-03,SquareTwo Financial Corporation,Closed with explanation,Yes,
+22727,1193880,Debt collection,"Other (phone, health club, etc.)",Taking/threatening an illegal action,Attempted to/Collected exempt funds,IL,61839.0,2015-01-15,2015-01-21,First Data Corporation,Closed with explanation,Yes,
+13064,1226579,Debt collection,Credit card,Improper contact or sharing of info,Talked to a third party about my debt,PA,17764.0,2015-02-05,2015-02-20,"Continental Finance Company, LLC",Closed with explanation,Yes,
+11311,1233589,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,CA,92335.0,2015-02-10,2015-02-13,Wells Fargo,Closed with explanation,Yes,
+13317,1227603,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,NJ,8904.0,2015-02-05,2015-02-10,"Credit Protection Association, L.P.",Closed with explanation,Yes,
+10221,1237649,Credit card,,Advertising and marketing,,TX,75033.0,2015-02-12,2015-02-19,JPMorgan Chase,Closed with explanation,Yes,
+20865,1200931,Bank account or service,Checking account,"Account opening, closing, or management",,PA,15222.0,2015-01-20,2015-01-23,First Niagara Bank,Closed with explanation,Yes,
+5708,1251696,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,MD,20912.0,2015-02-23,2015-02-23,"CCS Financial Services, Inc.",Closed with explanation,Yes,
+8622,1242924,Credit card,,Convenience checks,,MA,1951.0,2015-02-17,2015-02-17,Barclays,Closed with explanation,Yes,
+7117,1246320,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,MA,25542.0,2015-02-19,2015-02-25,Wells Fargo,In progress,Yes,
+22086,1197927,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,SC,29123.0,2015-01-16,2015-01-17,BB&T Financial,Closed with explanation,Yes,
+2281,1266603,Credit card,,Late fee,,GA,30062.0,2015-03-03,2015-03-04,Bank of America,In progress,Yes,
+18347,1209277,Credit reporting,,Incorrect information on credit report,Account status,FL,32810.0,2015-01-26,2015-01-26,Equifax,Closed with explanation,Yes,
+15268,1220540,Credit reporting,,Incorrect information on credit report,Information is not mine,FL,34266.0,2015-02-02,2015-02-02,Experian,Closed with explanation,Yes,
+12389,1229963,Credit card,,Balance transfer fee,,NY,10010.0,2015-02-07,2015-02-07,Bank of America,Closed with explanation,Yes,Yes
+27085,1183268,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,NY,11704.0,2015-01-05,2015-01-06,Resurgent Capital Services L.P.,Closed with explanation,Yes,
+16153,1219509,Bank account or service,Checking account,Problems caused by my funds being low,,FL,33935.0,2015-01-30,2015-02-03,Regions,Closed with monetary relief,Yes,
+1968,1268727,Credit card,,APR or interest rate,,NJ,7731.0,2015-03-04,2015-03-05,JPMorgan Chase,Closed with monetary relief,Yes,
+2129,1266724,Mortgage,VA mortgage,"Application, originator, mortgage broker",,NY,13439.0,2015-03-04,2015-03-04,"New Day Financial, LLC",Closed with explanation,Yes,
+11681,1232385,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,NJ,7981.0,2015-02-09,2015-02-12,Equifax,Closed with non-monetary relief,Yes,
+11304,1233673,Debt collection,Payday loan,Improper contact or sharing of info,Talked to a third party about my debt,MI,48174.0,2015-02-10,2015-03-04,"Sokaogon Finance, Inc.",Closed with explanation,Yes,
+26839,1180307,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,NJ,7640.0,2015-01-05,2015-01-05,Allied Interstate LLC,Closed with non-monetary relief,Yes,
+21928,1198378,Credit card,,Identity theft / Fraud / Embezzlement,,NJ,7008.0,2015-01-17,2015-01-18,Wells Fargo,Closed with explanation,Yes,
+19726,1203944,Student loan,Non-federal student loan,Dealing with my lender or servicer,,OH,44134.0,2015-01-22,2015-01-22,Navient,Closed with non-monetary relief,Yes,
+2819,1262476,Credit reporting,,Incorrect information on credit report,Information is not mine,MA,2461.0,2015-03-02,2015-03-02,Equifax,In progress,Yes,
+20413,1203244,Debt collection,,Communication tactics,Called after sent written cease of comm,OH,45065.0,2015-01-21,2015-01-21,"National Credit Adjusters, LLC",Closed with explanation,Yes,
+16594,1216029,Bank account or service,Checking account,"Account opening, closing, or management",,OH,44116.0,2015-01-29,2015-01-29,The Huntington National Bank,Closed with monetary relief,Yes,
+27029,1181097,Consumer loan,Vehicle loan,Managing the loan or lease,,MI,49420.0,2015-01-05,2015-01-09,The Huntington National Bank,Closed with explanation,Yes,
+24965,1187780,Debt collection,Payday loan,Cont'd attempts collect debt not owed,Debt is not mine,TX,75075.0,2015-01-09,2015-01-14,"National Credit Adjusters, LLC",Closed with explanation,Yes,No
+18134,1209675,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,TX,76905.0,2015-01-26,2015-01-26,"Pinnacle Credit Services, LLC",Closed with explanation,Yes,
+12708,1228141,Mortgage,Other mortgage,Credit decision / Underwriting,,CA,95003.0,2015-02-06,2015-02-11,JPMorgan Chase,Closed with explanation,Yes,Yes
+25589,1186200,Bank account or service,Savings account,Deposits and withdrawals,,NY,10044.0,2015-01-08,2015-01-08,Astoria Bank,Closed with explanation,Yes,Yes
+18422,1210387,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,NJ,8012.0,2015-01-26,2015-01-30,Ocwen,Closed with explanation,Yes,Yes
+19827,1204219,Credit reporting,,Incorrect information on credit report,Information is not mine,WA,98166.0,2015-01-22,2015-01-22,Experian,Closed with explanation,Yes,
+9891,1238453,Bank account or service,Checking account,Problems caused by my funds being low,,CA,94132.0,2015-02-12,2015-02-12,Bank of America,Closed with monetary relief,Yes,
+23827,1194117,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,TX,75219.0,2015-01-13,2015-01-15,"Credit Systems International, Inc.",Closed with explanation,Yes,
+27169,1181535,Credit reporting,,Incorrect information on credit report,Public record,IL,60540.0,2015-01-05,2015-01-05,TransUnion,Closed with explanation,Yes,No
+8008,1245590,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,NY,13142.0,2015-02-18,2015-02-18,JPMorgan Chase,Closed with explanation,Yes,
+16693,1217165,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Right to dispute notice not received,WA,98033.0,2015-01-29,2015-01-29,"Enhanced Recovery Company, LLC",Closed with non-monetary relief,Yes,Yes
+7841,1244086,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,CA,92165.0,2015-02-18,2015-02-18,Equifax,Closed with non-monetary relief,Yes,
+6417,1250827,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,PA,15010.0,2015-02-21,2015-02-21,Bank of America,In progress,Yes,
+20241,1203571,Credit card,,Advertising and marketing,,CA,92688.0,2015-01-21,2015-01-26,Capital One,In progress,Yes,
+20067,1204604,Bank account or service,Checking account,"Account opening, closing, or management",,SC,29607.0,2015-01-22,2015-01-26,SunTrust Bank,Closed with explanation,Yes,
+12315,1230183,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,MD,20832.0,2015-02-07,2015-02-07,"Convergent Resources, Inc.",Closed with explanation,Yes,
+11876,1230700,Bank account or service,Other bank product/service,"Account opening, closing, or management",,PA,19440.0,2015-02-09,2015-02-09,PNC Bank,In progress,Yes,
+14108,1225143,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,SC,29223.0,2015-02-04,2015-02-09,"Shellpoint Partners, LLC",Closed with explanation,Yes,Yes
+17192,1215163,Credit reporting,,Incorrect information on credit report,Account status,CA,95825.0,2015-01-28,2015-02-03,Experian,Closed with non-monetary relief,Yes,
+24086,1201023,Bank account or service,(CD) Certificate of deposit,Deposits and withdrawals,,WA,98292.0,2015-01-12,2015-01-13,Washington Federal,Closed with explanation,Yes,
+13152,1226462,Bank account or service,Checking account,Deposits and withdrawals,,FL,32803.0,2015-02-05,2015-02-10,SunTrust Bank,Closed with explanation,Yes,Yes
+22607,1195096,Bank account or service,Checking account,"Account opening, closing, or management",,MD,20743.0,2015-01-15,2015-01-15,SunTrust Bank,Closed with explanation,Yes,
+17566,1211764,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,PA,19146.0,2015-01-27,2015-01-27,Ocwen,Closed with explanation,Yes,
+20329,1201004,Credit reporting,,Incorrect information on credit report,Account status,WI,53147.0,2015-01-21,2015-01-21,Equifax,Closed with explanation,Yes,
+4093,1257798,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,NY,10595.0,2015-02-26,2015-03-04,Bank of the West,Closed with explanation,Yes,
+19141,1206046,Mortgage,Home equity loan or line of credit,"Loan servicing, payments, escrow account",,NJ,7869.0,2015-01-23,2015-01-28,Bank of America,Closed with explanation,Yes,Yes
+19230,1208124,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,CA,95037.0,2015-01-23,2015-02-05,Nationstar Mortgage,Closed with explanation,Yes,Yes
+20925,1201156,Bank account or service,Other bank product/service,"Account opening, closing, or management",,TX,78950.0,2015-01-20,2015-01-20,Capital One,Closed with monetary relief,Yes,
+6682,1250429,Mortgage,Conventional adjustable mortgage (ARM),Settlement process and costs,,CA,91412.0,2015-02-20,2015-02-20,Wells Fargo,In progress,Yes,
+5525,1257216,Debt collection,Payday loan,Disclosure verification of debt,Right to dispute notice not received,CA,90025.0,2015-02-24,2015-02-25,Ad Astra Recovery Services Inc,Closed with explanation,Yes,
+16793,1214998,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,CO,80501.0,2015-01-28,2015-02-03,Veripro Solutions Inc.,Closed with explanation,Yes,
+11621,1232174,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,FL,34684.0,2015-02-09,2015-02-10,PNC Bank,In progress,Yes,
+7930,1246725,Credit reporting,,Incorrect information on credit report,Account status,WV,26059.0,2015-02-18,2015-02-19,TransUnion,Closed with explanation,Yes,Yes
+21964,1197376,Credit card,,Late fee,,CA,94040.0,2015-01-16,2015-01-16,TD Bank,Closed with monetary relief,Yes,
+5780,1251900,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,MO,63020.0,2015-02-23,2015-02-23,Ocwen,Closed with explanation,Yes,
+8124,1245041,Debt collection,,Disclosure verification of debt,Not given enough info to verify debt,TX,77030.0,2015-02-18,2015-02-18,"CL Holdings, LLC",Closed with monetary relief,Yes,
+23315,1194284,Credit reporting,,Incorrect information on credit report,Account status,CA,93737.0,2015-01-14,2015-01-20,Citibank,Closed with non-monetary relief,Yes,
+25378,1187198,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,MD,20754.0,2015-01-08,2015-01-08,Wells Fargo,Closed with explanation,Yes,Yes
+196,1283368,Credit card,,Other,,MD,21830.0,2015-03-14,2015-03-14,JPMorgan Chase,Closed with explanation,Yes,
+26287,1182143,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,PA,19026.0,2015-01-06,2015-01-15,"Convergent Resources, Inc.",Closed with explanation,Yes,No
+4688,1256951,Consumer loan,Installment loan,Problems when you are unable to pay,,MO,63028.0,2015-02-25,2015-03-06,World Acceptance Corporation,Closed with explanation,Yes,
+12351,1230170,Credit card,,Rewards,,NY,11102.0,2015-02-07,2015-02-07,Wells Fargo,Closed with monetary relief,Yes,Yes
+23143,1193466,Credit reporting,,Incorrect information on credit report,Account status,FL,32514.0,2015-01-14,2015-01-21,TransUnion,Closed with explanation,Yes,Yes
+7834,1244072,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,FL,33126.0,2015-02-18,2015-02-18,Wells Fargo,Closed with non-monetary relief,Yes,
+18882,1208064,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,CA,94403.0,2015-01-24,2015-01-24,Equifax,Closed with explanation,Yes,Yes
+16248,1215567,Credit reporting,,Incorrect information on credit report,Account status,NJ,8648.0,2015-01-29,2015-02-11,Experian,Closed with non-monetary relief,Yes,
+27852,1179220,Credit card,,Identity theft / Fraud / Embezzlement,,FL,33616.0,2015-01-02,2015-01-08,Capital One,Closed with explanation,Yes,Yes
+27484,1179627,Consumer loan,Vehicle loan,Taking out the loan or lease,,MN,55311.0,2015-01-03,2015-01-03,U.S. Bancorp,Closed with explanation,Yes,No
+5032,1256846,Credit reporting,,Credit reporting company's investigation,Investigation took too long,FL,33545.0,2015-02-25,2015-02-25,Equifax,Closed with explanation,Yes,
+7251,1246303,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,TX,75062.0,2015-02-19,2015-02-19,JPMorgan Chase,Closed with explanation,Yes,
+25910,1184226,Consumer loan,Vehicle loan,Problems when you are unable to pay,,IL,60507.0,2015-01-07,2015-01-12,Exeter Finance Corp,Closed with explanation,Yes,
+7353,1246983,Credit reporting,,Incorrect information on credit report,Information is not mine,MD,20754.0,2015-02-19,2015-03-09,Experian,In progress,Yes,
+2949,1263812,Credit reporting,,Incorrect information on credit report,Information is not mine,IN,46131.0,2015-03-02,2015-03-02,Equifax,Closed with explanation,Yes,
+351,1280655,Credit reporting,,Incorrect information on credit report,Account status,CA,93536.0,2015-03-12,2015-03-12,Experian,Closed with non-monetary relief,Yes,
+19566,1207884,Credit reporting,,Incorrect information on credit report,Information is not mine,DE,19904.0,2015-01-23,2015-01-24,Equifax,Closed with explanation,Yes,
+22305,1197060,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,VA,20147.0,2015-01-16,2015-01-16,Bank of America,Closed with non-monetary relief,Yes,
+26581,1183239,Debt collection,Payday loan,Disclosure verification of debt,Not given enough info to verify debt,MI,48238.0,2015-01-06,2015-01-07,Unified Global Group,Closed with explanation,Yes,No
+9068,1241490,Mortgage,Conventional fixed mortgage,Settlement process and costs,,MI,48195.0,2015-02-16,2015-02-16,"Caliber Home Loans, Inc",Closed with explanation,Yes,
+27463,1179612,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,CA,95762.0,2015-01-03,2015-01-03,"Investment Retrievers, Inc.",Closed with explanation,Yes,No
+2900,1263366,Bank account or service,Other bank product/service,"Account opening, closing, or management",,CA,91343.0,2015-03-02,2015-03-02,Wells Fargo,Closed with explanation,Yes,
+4672,1256247,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",,TX,77008.0,2015-02-25,2015-02-25,Bank of America,Closed with monetary relief,Yes,
+19808,1205679,Debt collection,,Disclosure verification of debt,Not given enough info to verify debt,TX,75227.0,2015-01-22,2015-01-23,Encore Capital Group,Closed with explanation,Yes,
+22770,1195406,Mortgage,Home equity loan or line of credit,"Loan servicing, payments, escrow account",,MO,63115.0,2015-01-15,2015-02-18,JPMorgan Chase,Closed,Yes,
+14460,1222596,Debt collection,Non-federal student loan,Cont'd attempts collect debt not owed,Debt was paid,MA,2035.0,2015-02-03,2015-02-06,Citibank,Closed with explanation,Yes,
+22435,1196226,Bank account or service,Checking account,"Making/receiving payments, sending money",,AZ,85323.0,2015-01-15,2015-01-21,Capital One,Closed with monetary relief,Yes,
+12567,1229245,Debt collection,Medical,Communication tactics,Threatened to take legal action,OR,97404.0,2015-02-06,2015-02-11,"Ray Klein, Inc.",Closed,Yes,
+705,1275170,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,MA,1527.0,2015-03-10,2015-03-10,"Stallings Financial Group, Inc.",Closed with explanation,Yes,Yes
+2647,1266470,Debt collection,Auto,Improper contact or sharing of info,Contacted me after I asked not to,AZ,85028.0,2015-03-03,2015-03-04,Sierra Holdings LLC,Closed with explanation,Yes,
+18401,1209650,Debt collection,,Communication tactics,Frequent or repeated calls,NJ,8886.0,2015-01-26,2015-01-27,Encore Capital Group,Closed with non-monetary relief,Yes,
+23210,1193602,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,CA,92618.0,2015-01-14,2015-01-14,JPMorgan Chase,Closed with explanation,Yes,
+23072,1193201,Bank account or service,Checking account,"Making/receiving payments, sending money",,GA,30135.0,2015-01-14,2015-01-16,Wells Fargo,Closed with explanation,Yes,
+24631,1189297,Student loan,Non-federal student loan,Dealing with my lender or servicer,,NC,27932.0,2015-01-10,2015-01-10,JPMorgan Chase,Closed with explanation,Yes,No
+3694,1260789,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,AZ,85286.0,2015-02-27,2015-03-06,JPMorgan Chase,Closed with explanation,Yes,
+1512,1270427,Credit reporting,,Incorrect information on credit report,Public record,,31632.0,2015-03-06,2015-03-06,Experian,Closed with non-monetary relief,Yes,
+23239,1191836,Credit reporting,,Incorrect information on credit report,Account status,VA,22192.0,2015-01-14,2015-01-26,Equifax,Closed with explanation,Yes,
+26033,1184399,Credit reporting,,Incorrect information on credit report,Account status,OH,44111.0,2015-01-07,2015-01-07,TransUnion,Closed with explanation,Yes,No
+9857,1239424,Student loan,Non-federal student loan,Can't repay my loan,,MA,1375.0,2015-02-12,2015-02-13,Navient,Closed with explanation,Yes,
+6892,1249382,Student loan,Non-federal student loan,Dealing with my lender or servicer,,FL,33606.0,2015-02-20,2015-02-20,AES/PHEAA,Closed with non-monetary relief,Yes,
+19650,1203634,Money transfers,Domestic (US) money transfer,Other transaction issues,,CA,94606.0,2015-01-22,2015-01-22,Bank of America,Closed with explanation,Yes,
+8629,1242822,Credit card,,Identity theft / Fraud / Embezzlement,,OH,43119.0,2015-02-17,2015-02-23,Citibank,Closed with explanation,Yes,
+27872,1179259,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,CA,91331.0,2015-01-02,2015-01-02,Equifax,Closed with explanation,Yes,Yes
+25598,1186224,Credit card,,Payoff process,,VA,23238.0,2015-01-08,2015-01-12,Amex,Closed with explanation,Yes,
+14518,1224004,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,MN,55945.0,2015-02-03,2015-02-09,TCF National Bank,Closed with explanation,Yes,
+550,1277018,Credit reporting,,Incorrect information on credit report,Public record,FL,34465.0,2015-03-11,2015-03-11,Experian,Closed with explanation,Yes,
+20899,1198903,Debt collection,Auto,Cont'd attempts collect debt not owed,Debt resulted from identity theft,IL,60655.0,2015-01-20,2015-01-23,"CarMax, Inc.",Closed with explanation,Yes,
+217,1283516,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,CA,91750.0,2015-03-14,2015-03-15,Wells Fargo,Closed with non-monetary relief,Yes,
+24161,1191025,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,CO,80538.0,2015-01-12,2015-01-15,"Professional Finance Company, Inc.",Closed with explanation,Yes,Yes
+16902,1213311,Debt collection,,Disclosure verification of debt,Not disclosed as an attempt to collect,NE,68114.0,2015-01-28,2015-02-03,Source Receivables Management LLC,Closed with explanation,Yes,
+911,1273514,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,TX,78681.0,2015-03-09,2015-03-13,Veripro Solutions Inc.,Closed with explanation,Yes,
+10351,1238638,Credit card,,Closing/Cancelling account,,MI,48103.0,2015-02-12,2015-02-13,Discover,Closed with explanation,Yes,
+10182,1240626,Credit card,,Identity theft / Fraud / Embezzlement,,CA,90291.0,2015-02-12,2015-02-13,Amex,Closed with explanation,Yes,
+27607,1178224,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,FL,33993.0,2015-01-02,2015-01-02,"PennyMac Loan Services, LLC",Closed with explanation,Yes,No
+10628,1237158,Bank account or service,Checking account,"Account opening, closing, or management",,TX,77062.0,2015-02-11,2015-02-11,Wells Fargo,Closed with explanation,Yes,
+27732,1178935,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,NY,11022.0,2015-01-02,2015-01-06,Santander Consumer USA,Closed with explanation,Yes,No
+52,1287443,Credit reporting,,Incorrect information on credit report,Personal information,MI,48473.0,2015-03-17,2015-03-17,TransUnion,Closed with non-monetary relief,Yes,
+16181,1216607,Credit reporting,,Incorrect information on credit report,Information is not mine,SC,29730.0,2015-01-29,2015-01-29,TransUnion,In progress,Yes,
+288,1282971,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,NC,27511.0,2015-03-13,2015-03-13,Equifax,Closed with non-monetary relief,Yes,
+5115,1257200,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,VA,22202.0,2015-02-24,2015-03-09,"Enhanced Recovery Company, LLC",Closed with explanation,Yes,
+17998,1212190,Bank account or service,Checking account,Deposits and withdrawals,,SC,29301.0,2015-01-27,2015-01-27,Wells Fargo,Closed with monetary relief,Yes,
+21739,1198396,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,CT,6795.0,2015-01-18,2015-01-18,Equifax,Closed with explanation,Yes,Yes
+1791,1270739,Bank account or service,Savings account,"Making/receiving payments, sending money",,IL,60015.0,2015-03-05,2015-03-11,Ocwen,Closed with explanation,Yes,
+17448,1213483,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,AR,72584.0,2015-01-27,2015-01-28,"Hood & Stacy, P.A.",In progress,Yes,
+19099,1207274,Credit reporting,,Incorrect information on credit report,Account status,WI,54817.0,2015-01-23,2015-01-26,Experian,Closed with non-monetary relief,Yes,
