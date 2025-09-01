@@ -91,6 +91,6 @@ uv run python -m src.predict_cli \
 
 **App ejecutiva (sin cargas externas)**
 ```bash
-uv run streamlit run app/app_exec.py
+uv run streamlit run app/app_cli.py
 ```
 Muestra KPIs de scoring, métricas del modelo y **métricas de negocio** (coste esperado, P90, top compañías y top casos). Descarga `models/scored.csv`.
