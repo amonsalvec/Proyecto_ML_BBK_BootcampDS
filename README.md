@@ -57,8 +57,9 @@ nombre_proyecto_final_ML
 │   ├── memoria.md: Documentación adicional del proyecto.
 │   └── ...
 └── README.md: Documentación del proyecto.
+```
 
-## App
+## App (Ejecución)
 ```bash
 uv run streamlit run app/app.py
 
