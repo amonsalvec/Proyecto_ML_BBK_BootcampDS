@@ -36,8 +36,6 @@ dependencies = [
     "pydot>=4.0.1",
     "python-dotenv>=1.1.1",
     "skrub>=0.6.0",
-    "tensorflow>=2.19.0",
-    "tf-keras>=2.19.0",
     "transformers>=4.53.2",
     "virtualenv>=20.32.0",
     "scipy",
