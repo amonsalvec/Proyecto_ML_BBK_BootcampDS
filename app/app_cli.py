@@ -102,10 +102,10 @@ st.set_page_config(page_title="Timely Response — Ejecutivo", layout="wide")
 repo_root = P(__file__).resolve().parents[1]
 add_src_to_path(repo_root)
 
-MODEL_PATH = repo_root / "models" / "trained_model.pkl"
-CFG_PATH   = repo_root / "models" / "model_config.yaml"
+MODEL_PATH = repo_root / "models" / "trained_model_cli.pkl"
+CFG_PATH   = repo_root / "models" / "model_config_cli.yaml"
 DATA_PATH  = repo_root / "data" / "processed" / "clean_for_model.csv"
-SCORED_OUT = repo_root / "models" / "scored.csv"
+SCORED_OUT = repo_root / "models" / "scored_cli.csv"
 
 st.title("Timely Response — Ejecutivo")
 st.caption("Modelo binario Yes/No • TF-IDF + OneHot + Fecha (sklearn==1.5.1) • Sin cargas externas")
