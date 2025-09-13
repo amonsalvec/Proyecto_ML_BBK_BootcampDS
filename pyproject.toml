@@ -46,6 +46,7 @@ dependencies = [
     "jupyterlab>=4.0",
     "ipykernel>=6.0",
     "watchdog>=3.0",
+    "fastapi[standar]>=0.116.1",
 ]
 
 
